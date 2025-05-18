@@ -20,7 +20,7 @@ body {
 #TopBar {
   display: flex;
   align-items: center;
-  padding: 1rem 10rem;
+  padding: 0.2rem 10rem;
   background: #fff;
   border-bottom: 1px solid #e0e0e0;
 }
@@ -28,11 +28,11 @@ body {
 #TopBar img#logo1 {
   height: 100px;
   margin-right: 1rem;
-  margin-left: auto;
 }
 
 #TopBar h1 {
-  font-size: 2rem;
+  margin-left: 1rem; 
+  font-size: 1.4rem;
   font-weight:999;
 }
 
@@ -41,7 +41,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 10rem;
+  padding: 1.4rem 10rem;
   background: var(--text-color);
   box-shadow: var(--card-shadow);
   color: white;
@@ -107,7 +107,7 @@ body {
 
 /* Dashboard layout */
 #dashboard {
-  padding: 1.5rem 2rem;
+  padding: 6rem 2rem;
   max-width: 1400px;
   margin: auto;
 }
