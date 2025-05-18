@@ -9,7 +9,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const tileFilter = document.getElementById("tileFilter");
   const overviewTitle = document.querySelector(".filters-left h2");
 
-  // Cargar los tiles desde tiles.json
   fetch("tiles.json")
     .then((response) => response.json())
     .then((tileIds) => {
@@ -20,17 +19,14 @@ document.addEventListener("DOMContentLoaded", () => {
         tileFilter.appendChild(option);
       });
 
-      // Texto inicial
       overviewTitle.textContent = "Overview of errors in: All";
 
-      // Cargar todos los errores al inicio
       loadAndDisplayAllErrors();
     })
     .catch((error) => {
       console.error("Error loading tiles.json:", error);
     });
 
-  // Cambiar tile seleccionado
   tileFilter.addEventListener("change", async () => {
     const selected = tileFilter.value;
     const overviewTitle = document.querySelector(".filters-left h2");
@@ -47,14 +43,12 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 
-// Función general que carga errores y renderiza las gráficas
 async function loadAndDisplayErrors(tileId) {
   const errors = await loadErrorsForTile(tileId);
   console.log(`🔍 ${errors.length} errores cargados para tile ${tileId}`);
   renderCharts(errors);
 }
 
-// Carga errores desde las carpetas de validación
 async function loadErrorsForTile(tileId) {
   const sources = [
     `/outputs/validation_multidigit/errors_${tileId}.json`,
@@ -80,7 +74,6 @@ async function loadErrorsForTile(tileId) {
   return allErrors;
 }
 
-// Cargar y mostrar todos los errores combinados
 async function loadAndDisplayAllErrors() {
   console.log("🔁 Cargando todos los errores...");
 
@@ -112,7 +105,7 @@ async function loadAndDisplayAllErrors() {
 async function loadAndDisplayErrors(tileId) {
   const errors = await loadErrorsForTile(tileId);
   console.log(`🔍 ${errors.length} errores cargados para tile ${tileId}`);
-  updateKPI(errors);  // ✅ Agrega esto
+  updateKPI(errors); 
   renderCharts(errors);
 }
 
@@ -139,12 +132,11 @@ async function loadAndDisplayAllErrors() {
     alert("No se encontraron errores en ninguno de los tiles.");
   }
 
-  updateKPI(allErrors);  // ✅ Agrega esto
+  updateKPI(allErrors);
   renderCharts(allErrors);
 }
 
 
-// Renderizar todas las gráficas
 function renderCharts(errors) {
   renderChartByType(errors);
   renderChartBySideMismatch(errors);
@@ -155,7 +147,6 @@ function renderCharts(errors) {
 }
 
 
-// Errores por tipo
 function renderChartByType(errors) {
   if (chartTypeInstance) chartTypeInstance.destroy();
 
@@ -197,11 +188,11 @@ function renderChartByType(errors) {
   scales: {
     y: { 
       beginAtZero: true,
-      ticks: { color: 'white' }, // Add this line
+      ticks: { color: 'white' }, 
       grid: { color: 'rgba(255, 255, 255, 0.1)' },
       border: { color: 'white' }
     },
-    x: { // Add this block
+    x: {
       ticks: { color: 'white' },
       grid: { color: 'rgba(255, 255, 255, 0.1)' },
       border: { color: 'white' }
@@ -211,7 +202,6 @@ function renderChartByType(errors) {
   });
 }
 
-// Lado esperado vs real
 function renderChartBySideMismatch(errors) {
   if (chartSideInstance) chartSideInstance.destroy();
 
@@ -246,7 +236,7 @@ function renderChartBySideMismatch(errors) {
         },
         legend: {
           labels: {
-            color: "white", // Add this line
+            color: "white", 
           },
         },
       },
@@ -254,11 +244,11 @@ function renderChartBySideMismatch(errors) {
   scales: {
     y: { 
       beginAtZero: true,
-      ticks: { color: 'white' }, // Add this line
+      ticks: { color: 'white' }, 
       grid: { color: 'rgba(255, 255, 255, 0.1)' },
       border: { color: 'white' }
     },
-    x: { // Add this block
+    x: { 
       ticks: { color: 'white' },
       grid: { color: 'rgba(255, 255, 255, 0.1)' },
       border: { color: 'white' }
@@ -268,7 +258,6 @@ function renderChartBySideMismatch(errors) {
   });
 }
 
-// Top 10 links con más errores
 function renderChartByLink(errors) {
   if (chartLinkInstance) chartLinkInstance.destroy();
 
@@ -306,7 +295,7 @@ function renderChartByLink(errors) {
         },
         legend: {
           labels: {
-            color: "white", // Add this line
+            color: "white", 
           },
         },
       },
@@ -314,11 +303,11 @@ function renderChartByLink(errors) {
   scales: {
     y: { 
       beginAtZero: true,
-      ticks: { color: 'white' }, // Add this line
+      ticks: { color: 'white' }, 
       grid: { color: 'rgba(255, 255, 255, 0.1)' },
       border: { color: 'white' }
     },
-    x: { // Add this block
+    x: { 
       ticks: { color: 'white' },
       grid: { color: 'rgba(255, 255, 255, 0.1)' },
       border: { color: 'white' }
@@ -480,13 +469,12 @@ function renderChartErrorDistribution(errors) {
 function renderErrorMap(errors) {
   const mapContainer = document.getElementById("chartMap");
 
-  // Reset Leaflet map
   if (mapContainer._leaflet_id) {
     mapContainer._leaflet_id = null;
     mapContainer.innerHTML = "";
   }
 
-  const map = L.map("chartMap").setView([19.43, -99.13], 12); // CDMX por defecto
+  const map = L.map("chartMap").setView([19.43, -99.13], 12);
 
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 18,
@@ -501,7 +489,7 @@ function renderErrorMap(errors) {
       lat = error.lat;
       lon = error.lon;
     } else if (error.geometry && Array.isArray(error.geometry)) {
-      [lon, lat] = error.geometry; // OJO: GeoJSON usa [lon, lat]
+      [lon, lat] = error.geometry;
     }
 
     if (!lat || !lon) return;
