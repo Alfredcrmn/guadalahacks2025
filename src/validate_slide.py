@@ -32,7 +32,7 @@ def displace_point(poi_point, ref_node, non_ref_node, side="R", distance=5):
     new_x = poi_point.x + factor * ux * (distance / 111320)
     new_y = poi_point.y + factor * uy * (distance / 111320)
     return Point(new_x, new_y)
-
+#Función de validate
 def validate_poi_side(tile_data):
     pois = tile_data["pois"]
     streets_nav = tile_data["streets_nav"]
