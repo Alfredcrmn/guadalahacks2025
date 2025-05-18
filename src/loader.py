@@ -47,7 +47,9 @@ def load_tile(tile_id: int, base_path: str = "data", export_errors: bool = True)
 
     pois = pd.read_csv(poi_path)
     streets_nav = gpd.read_file(nav_path)
+    print(f"[DEBUG] DIR_TRAVEL valores únicos para tile {tile_id}: {streets_nav['DIR_TRAVEL'].unique().tolist() if 'DIR_TRAVEL' in streets_nav.columns else 'NO COLUMN'}")
     naming = gpd.read_file(naming_path)
+    naming["ST_NAME"] = naming["ST_NAME"].astype(str).str.strip().str.upper()
     tiles = gpd.read_file(tiles_path)
 
     tile_geom_row = tiles[tiles["L11_Tile_ID"] == tile_id]
@@ -66,10 +68,22 @@ def load_tile(tile_id: int, base_path: str = "data", export_errors: bool = True)
             outside_pois[["POI_ID", "LINK_ID", "geometry"]].to_file(output_path, driver="GeoJSON")
             print(f"[INFO] {len(outside_pois)} POIs fuera del tile exportados a {output_path}")
 
+    # Forzar que link_id sea string en ambos dataframes antes de hacer el merge
+    naming["link_id"] = naming["link_id"].astype(str)
+    streets_nav["link_id"] = streets_nav["link_id"].astype(str)
+    naming_with_nav = naming.merge(
+        streets_nav[["link_id", "DIR_TRAVEL", "geometry"]],
+        on="link_id", how="inner"
+    )
+    print(f"[DEBUG] Columns in streets_nav for tile {tile_id}: {streets_nav.columns.tolist()}")
+    print(f"[DEBUG] Columns in naming_with_nav for tile {tile_id}: {naming_with_nav.columns.tolist()}")
+    print(f"[DEBUG] naming_with_nav has {len(naming_with_nav)} rows")
+
     return {
         "tile_id": tile_id,
         "pois": pois,
         "streets_nav": streets_nav,
         "naming": naming,
+        "naming_with_nav": naming_with_nav,
         "tile_geom": tile_geom
     }

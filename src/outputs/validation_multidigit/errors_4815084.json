@@ -1,0 +1,7964 @@
+[
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314025755,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.4921875,
+        19.347946509009006
+      ],
+      [
+        -99.49189,
+        19.34811
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314025756,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.49189,
+        19.34811
+      ],
+      [
+        -99.49092,
+        19.34865
+      ],
+      [
+        -99.49049,
+        19.3489
+      ],
+      [
+        -99.49005,
+        19.34916
+      ],
+      [
+        -99.4897,
+        19.34938
+      ],
+      [
+        -99.4891,
+        19.34978
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314067743,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.4921875,
+        19.3480835443038
+      ],
+      [
+        -99.49214,
+        19.34811
+      ],
+      [
+        -99.49141,
+        19.34851
+      ],
+      [
+        -99.49081,
+        19.34885
+      ],
+      [
+        -99.49038,
+        19.3491
+      ],
+      [
+        -99.49003,
+        19.34931
+      ],
+      [
+        -99.48969,
+        19.34953
+      ],
+      [
+        -99.48935,
+        19.34976
+      ],
+      [
+        -99.48895,
+        19.35003
+      ],
+      [
+        -99.48829,
+        19.3505
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314029009,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.4891,
+        19.34978
+      ],
+      [
+        -99.48877,
+        19.35001
+      ],
+      [
+        -99.48801,
+        19.35056
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358268283,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48829,
+        19.3505
+      ],
+      [
+        -99.48748,
+        19.35107
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314029010,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48801,
+        19.35056
+      ],
+      [
+        -99.4865,
+        19.35162
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314118781,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.4865,
+        19.35162
+      ],
+      [
+        -99.48575,
+        19.35215
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358268284,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48748,
+        19.35107
+      ],
+      [
+        -99.48666,
+        19.35165
+      ],
+      [
+        -99.48551,
+        19.35246
+      ],
+      [
+        -99.48483,
+        19.35294
+      ],
+      [
+        -99.48453,
+        19.35314
+      ],
+      [
+        -99.48421,
+        19.35334
+      ],
+      [
+        -99.48387,
+        19.35354
+      ],
+      [
+        -99.48359,
+        19.35369
+      ],
+      [
+        -99.48336,
+        19.35381
+      ],
+      [
+        -99.48311,
+        19.35393
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314118782,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48575,
+        19.35215
+      ],
+      [
+        -99.4852,
+        19.35254
+      ],
+      [
+        -99.48471,
+        19.35288
+      ],
+      [
+        -99.4843,
+        19.35315
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314022084,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.4843,
+        19.35315
+      ],
+      [
+        -99.48397,
+        19.35335
+      ],
+      [
+        -99.48363,
+        19.35354
+      ],
+      [
+        -99.48332,
+        19.35371
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314022085,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48332,
+        19.35371
+      ],
+      [
+        -99.4829,
+        19.35392
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262535,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.4829,
+        19.35392
+      ],
+      [
+        -99.48259,
+        19.35405
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262533,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48311,
+        19.35393
+      ],
+      [
+        -99.48287,
+        19.35404
+      ],
+      [
+        -99.48262,
+        19.35415
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262536,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48259,
+        19.35405
+      ],
+      [
+        -99.48237,
+        19.35413
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1236925304,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48237,
+        19.35413
+      ],
+      [
+        -99.48223,
+        19.35419
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262534,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48262,
+        19.35415
+      ],
+      [
+        -99.48241,
+        19.35423
+      ],
+      [
+        -99.48228,
+        19.35428
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262539,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48223,
+        19.35419
+      ],
+      [
+        -99.48203,
+        19.35426
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262537,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48228,
+        19.35428
+      ],
+      [
+        -99.48211,
+        19.35434
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262540,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48203,
+        19.35426
+      ],
+      [
+        -99.48138,
+        19.35449
+      ],
+      [
+        -99.48089,
+        19.35465
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262538,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48211,
+        19.35434
+      ],
+      [
+        -99.48168,
+        19.35449
+      ],
+      [
+        -99.48117,
+        19.35466
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1383286959,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45264,
+        19.35458
+      ],
+      [
+        -99.45279,
+        19.35462
+      ],
+      [
+        -99.45307,
+        19.35472
+      ],
+      [
+        -99.45333,
+        19.35483
+      ],
+      [
+        -99.45355,
+        19.35495
+      ],
+      [
+        -99.45378,
+        19.35508
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314047683,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45383,
+        19.35497
+      ],
+      [
+        -99.45402,
+        19.3551
+      ],
+      [
+        -99.45417,
+        19.35521
+      ],
+      [
+        -99.45439,
+        19.3554
+      ],
+      [
+        -99.45457,
+        19.35558
+      ],
+      [
+        -99.45478,
+        19.35582
+      ],
+      [
+        -99.45499,
+        19.3561
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314047681,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45378,
+        19.35508
+      ],
+      [
+        -99.45399,
+        19.35523
+      ],
+      [
+        -99.45418,
+        19.35538
+      ],
+      [
+        -99.45439,
+        19.35557
+      ],
+      [
+        -99.4546,
+        19.3558
+      ],
+      [
+        -99.45473,
+        19.35595
+      ],
+      [
+        -99.45487,
+        19.35614
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316670411,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.43276,
+        19.37282
+      ],
+      [
+        -99.43254,
+        19.37291
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314379875,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.43254,
+        19.37291
+      ],
+      [
+        -99.43193,
+        19.37317
+      ],
+      [
+        -99.43153,
+        19.37334
+      ],
+      [
+        -99.43123,
+        19.37345
+      ],
+      [
+        -99.43092,
+        19.37355
+      ],
+      [
+        -99.43065,
+        19.37362
+      ],
+      [
+        -99.43043,
+        19.37367
+      ],
+      [
+        -99.43012,
+        19.37371
+      ],
+      [
+        -99.42982,
+        19.37373
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316978121,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.42745,
+        19.37334
+      ],
+      [
+        -99.4268,
+        19.37319
+      ],
+      [
+        -99.42634,
+        19.37309
+      ],
+      [
+        -99.42599,
+        19.37302
+      ],
+      [
+        -99.42568,
+        19.37297
+      ],
+      [
+        -99.42537,
+        19.37294
+      ],
+      [
+        -99.42511,
+        19.37293
+      ],
+      [
+        -99.42478,
+        19.37294
+      ],
+      [
+        -99.42449,
+        19.37297
+      ],
+      [
+        -99.42419,
+        19.37302
+      ],
+      [
+        -99.42394,
+        19.37308
+      ],
+      [
+        -99.42369,
+        19.37315
+      ],
+      [
+        -99.42343,
+        19.37325
+      ],
+      [
+        -99.42318,
+        19.37336
+      ],
+      [
+        -99.42294,
+        19.37348
+      ],
+      [
+        -99.42274,
+        19.3736
+      ],
+      [
+        -99.42253,
+        19.37374
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317027623,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.43281,
+        19.37292
+      ],
+      [
+        -99.43228,
+        19.37315
+      ],
+      [
+        -99.43191,
+        19.37331
+      ],
+      [
+        -99.43165,
+        19.37342
+      ],
+      [
+        -99.43142,
+        19.37351
+      ],
+      [
+        -99.43122,
+        19.37358
+      ],
+      [
+        -99.43098,
+        19.37366
+      ],
+      [
+        -99.43071,
+        19.37373
+      ],
+      [
+        -99.43048,
+        19.37378
+      ],
+      [
+        -99.43029,
+        19.37381
+      ],
+      [
+        -99.43008,
+        19.37383
+      ],
+      [
+        -99.42985,
+        19.37384
+      ],
+      [
+        -99.42957,
+        19.37384
+      ],
+      [
+        -99.42931,
+        19.37382
+      ],
+      [
+        -99.42904,
+        19.37379
+      ],
+      [
+        -99.42879,
+        19.37375
+      ],
+      [
+        -99.42849,
+        19.37369
+      ],
+      [
+        -99.42799,
+        19.37358
+      ],
+      [
+        -99.42666,
+        19.37327
+      ],
+      [
+        -99.42634,
+        19.3732
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317027624,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.42634,
+        19.3732
+      ],
+      [
+        -99.42607,
+        19.37315
+      ],
+      [
+        -99.42589,
+        19.37312
+      ],
+      [
+        -99.42567,
+        19.37309
+      ],
+      [
+        -99.42547,
+        19.37307
+      ],
+      [
+        -99.42523,
+        19.37306
+      ],
+      [
+        -99.42496,
+        19.37306
+      ],
+      [
+        -99.42474,
+        19.37307
+      ],
+      [
+        -99.42454,
+        19.37309
+      ],
+      [
+        -99.42433,
+        19.37312
+      ],
+      [
+        -99.42414,
+        19.37316
+      ],
+      [
+        -99.42391,
+        19.37322
+      ],
+      [
+        -99.42371,
+        19.37328
+      ],
+      [
+        -99.42349,
+        19.37336
+      ],
+      [
+        -99.42327,
+        19.37345
+      ],
+      [
+        -99.42308,
+        19.37354
+      ],
+      [
+        -99.42288,
+        19.37365
+      ],
+      [
+        -99.42276,
+        19.37373
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316978120,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.42745,
+        19.37334
+      ],
+      [
+        -99.42823,
+        19.37352
+      ],
+      [
+        -99.42858,
+        19.37359
+      ],
+      [
+        -99.42894,
+        19.37366
+      ],
+      [
+        -99.42933,
+        19.37371
+      ],
+      [
+        -99.42961,
+        19.37373
+      ],
+      [
+        -99.42982,
+        19.37373
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314047685,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45499,
+        19.3561
+      ],
+      [
+        -99.45513,
+        19.35632
+      ],
+      [
+        -99.45531,
+        19.35662
+      ],
+      [
+        -99.45545,
+        19.35688
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314047687,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45487,
+        19.35614
+      ],
+      [
+        -99.45499,
+        19.35633
+      ],
+      [
+        -99.45511,
+        19.35652
+      ],
+      [
+        -99.45522,
+        19.35671
+      ],
+      [
+        -99.45534,
+        19.35692
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314047686,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45545,
+        19.35688
+      ],
+      [
+        -99.45577,
+        19.35745
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314047688,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45534,
+        19.35692
+      ],
+      [
+        -99.45569,
+        19.35755
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1325528837,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45383,
+        19.35497
+      ],
+      [
+        -99.45363,
+        19.35485
+      ],
+      [
+        -99.45343,
+        19.35474
+      ],
+      [
+        -99.4532,
+        19.35464
+      ],
+      [
+        -99.45294,
+        19.35454
+      ],
+      [
+        -99.45268,
+        19.35446
+      ],
+      [
+        -99.45242,
+        19.3544
+      ],
+      [
+        -99.4522,
+        19.35436
+      ],
+      [
+        -99.45195,
+        19.35433
+      ],
+      [
+        -99.45172,
+        19.35432
+      ],
+      [
+        -99.45152,
+        19.35431
+      ],
+      [
+        -99.45127,
+        19.35432
+      ],
+      [
+        -99.451,
+        19.35435
+      ],
+      [
+        -99.45073,
+        19.3544
+      ],
+      [
+        -99.45046,
+        19.35447
+      ],
+      [
+        -99.45016,
+        19.35456
+      ],
+      [
+        -99.44993,
+        19.35465
+      ],
+      [
+        -99.44967,
+        19.35477
+      ],
+      [
+        -99.44945,
+        19.35489
+      ],
+      [
+        -99.4492,
+        19.35505
+      ],
+      [
+        -99.44894,
+        19.35524
+      ],
+      [
+        -99.44874,
+        19.35542
+      ],
+      [
+        -99.4485,
+        19.35567
+      ],
+      [
+        -99.44829,
+        19.35593
+      ],
+      [
+        -99.44811,
+        19.3562
+      ],
+      [
+        -99.44796,
+        19.35646
+      ],
+      [
+        -99.44782,
+        19.35676
+      ],
+      [
+        -99.44771,
+        19.35708
+      ],
+      [
+        -99.44763,
+        19.3574
+      ],
+      [
+        -99.44758,
+        19.35771
+      ],
+      [
+        -99.44756,
+        19.35793
+      ],
+      [
+        -99.44755,
+        19.35817
+      ],
+      [
+        -99.44756,
+        19.35839
+      ],
+      [
+        -99.44759,
+        19.35865
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1383286960,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45264,
+        19.35458
+      ],
+      [
+        -99.45249,
+        19.35454
+      ],
+      [
+        -99.45218,
+        19.35448
+      ],
+      [
+        -99.45191,
+        19.35445
+      ],
+      [
+        -99.45168,
+        19.35444
+      ],
+      [
+        -99.45142,
+        19.35444
+      ],
+      [
+        -99.45117,
+        19.35446
+      ],
+      [
+        -99.45091,
+        19.35449
+      ],
+      [
+        -99.45062,
+        19.35455
+      ],
+      [
+        -99.45037,
+        19.35462
+      ],
+      [
+        -99.4501,
+        19.35472
+      ],
+      [
+        -99.44981,
+        19.35484
+      ],
+      [
+        -99.44956,
+        19.35497
+      ],
+      [
+        -99.44934,
+        19.35511
+      ],
+      [
+        -99.44913,
+        19.35526
+      ],
+      [
+        -99.44893,
+        19.35542
+      ],
+      [
+        -99.44871,
+        19.35563
+      ],
+      [
+        -99.44855,
+        19.3558
+      ],
+      [
+        -99.44836,
+        19.35605
+      ],
+      [
+        -99.4482,
+        19.35629
+      ],
+      [
+        -99.44803,
+        19.35659
+      ],
+      [
+        -99.44791,
+        19.35685
+      ],
+      [
+        -99.44782,
+        19.3571
+      ],
+      [
+        -99.44776,
+        19.35735
+      ],
+      [
+        -99.4477,
+        19.35773
+      ],
+      [
+        -99.44768,
+        19.35804
+      ],
+      [
+        -99.44769,
+        19.35828
+      ],
+      [
+        -99.44771,
+        19.35855
+      ],
+      [
+        -99.44776,
+        19.35885
+      ],
+      [
+        -99.44784,
+        19.35917
+      ],
+      [
+        -99.448,
+        19.35975
+      ],
+      [
+        -99.44819,
+        19.36034
+      ],
+      [
+        -99.44828,
+        19.36061
+      ],
+      [
+        -99.44835,
+        19.36089
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262405,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45577,
+        19.35745
+      ],
+      [
+        -99.45666,
+        19.35907
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262404,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45569,
+        19.35755
+      ],
+      [
+        -99.45655,
+        19.35912
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267272,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45655,
+        19.35912
+      ],
+      [
+        -99.45676,
+        19.3595
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1236930127,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45666,
+        19.35907
+      ],
+      [
+        -99.45712,
+        19.35989
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267273,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45676,
+        19.3595
+      ],
+      [
+        -99.457,
+        19.35994
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1383215749,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45917,
+        19.36227
+      ],
+      [
+        -99.45944,
+        19.36238
+      ],
+      [
+        -99.45973,
+        19.36243
+      ],
+      [
+        -99.46025,
+        19.3625
+      ],
+      [
+        -99.46082,
+        19.36258
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1383215751,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.46082,
+        19.36258
+      ],
+      [
+        -99.46104,
+        19.3626
+      ],
+      [
+        -99.46157,
+        19.3626
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358260958,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.44759,
+        19.35865
+      ],
+      [
+        -99.44763,
+        19.35889
+      ],
+      [
+        -99.4477,
+        19.35918
+      ],
+      [
+        -99.44783,
+        19.35964
+      ],
+      [
+        -99.44807,
+        19.36038
+      ],
+      [
+        -99.44817,
+        19.36069
+      ],
+      [
+        -99.44824,
+        19.36096
+      ],
+      [
+        -99.44829,
+        19.3612
+      ],
+      [
+        -99.44833,
+        19.36145
+      ],
+      [
+        -99.44835,
+        19.3617
+      ],
+      [
+        -99.44835,
+        19.36197
+      ],
+      [
+        -99.44834,
+        19.3622
+      ],
+      [
+        -99.44831,
+        19.36243
+      ],
+      [
+        -99.44826,
+        19.36267
+      ],
+      [
+        -99.4482,
+        19.36289
+      ],
+      [
+        -99.44811,
+        19.36315
+      ],
+      [
+        -99.44801,
+        19.36339
+      ],
+      [
+        -99.4479,
+        19.3636
+      ],
+      [
+        -99.44778,
+        19.3638
+      ],
+      [
+        -99.44761,
+        19.36403
+      ],
+      [
+        -99.44745,
+        19.36423
+      ],
+      [
+        -99.44724,
+        19.36446
+      ],
+      [
+        -99.44698,
+        19.36469
+      ],
+      [
+        -99.44667,
+        19.36491
+      ],
+      [
+        -99.44642,
+        19.36506
+      ],
+      [
+        -99.4462,
+        19.36518
+      ],
+      [
+        -99.446,
+        19.36528
+      ],
+      [
+        -99.44569,
+        19.36542
+      ],
+      [
+        -99.44485,
+        19.36577
+      ],
+      [
+        -99.44453,
+        19.36591
+      ],
+      [
+        -99.44423,
+        19.36605
+      ],
+      [
+        -99.44294,
+        19.36667
+      ],
+      [
+        -99.44275,
+        19.36677
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267271,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.44835,
+        19.36089
+      ],
+      [
+        -99.4484,
+        19.36111
+      ],
+      [
+        -99.44844,
+        19.36136
+      ],
+      [
+        -99.44847,
+        19.3616
+      ],
+      [
+        -99.44847,
+        19.36183
+      ],
+      [
+        -99.44847,
+        19.36208
+      ],
+      [
+        -99.44845,
+        19.3623
+      ],
+      [
+        -99.44841,
+        19.36254
+      ],
+      [
+        -99.44836,
+        19.36277
+      ],
+      [
+        -99.44829,
+        19.363
+      ],
+      [
+        -99.4482,
+        19.36325
+      ],
+      [
+        -99.44809,
+        19.36351
+      ],
+      [
+        -99.44796,
+        19.36374
+      ],
+      [
+        -99.44781,
+        19.36398
+      ],
+      [
+        -99.44765,
+        19.36419
+      ],
+      [
+        -99.44741,
+        19.36446
+      ],
+      [
+        -99.4472,
+        19.36466
+      ],
+      [
+        -99.44698,
+        19.36484
+      ],
+      [
+        -99.44677,
+        19.36499
+      ],
+      [
+        -99.44653,
+        19.36514
+      ],
+      [
+        -99.44627,
+        19.36528
+      ],
+      [
+        -99.44598,
+        19.36542
+      ],
+      [
+        -99.44475,
+        19.36592
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314022960,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48117,
+        19.35466
+      ],
+      [
+        -99.48092,
+        19.35474
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314020373,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48089,
+        19.35465
+      ],
+      [
+        -99.48027,
+        19.35485
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314004461,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48092,
+        19.35474
+      ],
+      [
+        -99.48001,
+        19.35504
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1357772077,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48027,
+        19.35485
+      ],
+      [
+        -99.47924,
+        19.35518
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314004462,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.48001,
+        19.35504
+      ],
+      [
+        -99.47927,
+        19.35528
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1357772078,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47924,
+        19.35518
+      ],
+      [
+        -99.4789,
+        19.35529
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1357772075,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47927,
+        19.35528
+      ],
+      [
+        -99.47886,
+        19.35541
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1357772076,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47886,
+        19.35541
+      ],
+      [
+        -99.47774,
+        19.35578
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1164867224,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.4789,
+        19.35529
+      ],
+      [
+        -99.47692,
+        19.35593
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314018655,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47774,
+        19.35578
+      ],
+      [
+        -99.47701,
+        19.35603
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314023759,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47692,
+        19.35593
+      ],
+      [
+        -99.47633,
+        19.35613
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316548461,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47701,
+        19.35603
+      ],
+      [
+        -99.47659,
+        19.35617
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316548462,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47659,
+        19.35617
+      ],
+      [
+        -99.4754,
+        19.35656
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314023760,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47633,
+        19.35613
+      ],
+      [
+        -99.47483,
+        19.35662
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 847933216,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47483,
+        19.35662
+      ],
+      [
+        -99.47457,
+        19.3567
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1297522591,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.4754,
+        19.35656
+      ],
+      [
+        -99.47422,
+        19.35694
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1193924492,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47457,
+        19.3567
+      ],
+      [
+        -99.47382,
+        19.35693
+      ],
+      [
+        -99.4733,
+        19.35706
+      ],
+      [
+        -99.47281,
+        19.35717
+      ],
+      [
+        -99.47244,
+        19.35724
+      ],
+      [
+        -99.47203,
+        19.35731
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1313566220,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47422,
+        19.35694
+      ],
+      [
+        -99.47369,
+        19.35709
+      ],
+      [
+        -99.47327,
+        19.3572
+      ],
+      [
+        -99.47297,
+        19.35727
+      ],
+      [
+        -99.47267,
+        19.35733
+      ],
+      [
+        -99.47239,
+        19.35738
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1288495031,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47203,
+        19.35731
+      ],
+      [
+        -99.47153,
+        19.35738
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316982425,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47153,
+        19.35738
+      ],
+      [
+        -99.46914,
+        19.35768
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314053353,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.47239,
+        19.35738
+      ],
+      [
+        -99.47214,
+        19.35742
+      ],
+      [
+        -99.47187,
+        19.35746
+      ],
+      [
+        -99.47151,
+        19.35751
+      ],
+      [
+        -99.47039,
+        19.35765
+      ],
+      [
+        -99.47012,
+        19.35768
+      ],
+      [
+        -99.46979,
+        19.35771
+      ],
+      [
+        -99.46936,
+        19.35774
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316982426,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.46914,
+        19.35768
+      ],
+      [
+        -99.46884,
+        19.35772
+      ],
+      [
+        -99.46849,
+        19.35777
+      ],
+      [
+        -99.46811,
+        19.35784
+      ],
+      [
+        -99.46781,
+        19.35791
+      ],
+      [
+        -99.46755,
+        19.35799
+      ],
+      [
+        -99.46724,
+        19.3581
+      ],
+      [
+        -99.46696,
+        19.35823
+      ],
+      [
+        -99.46663,
+        19.35841
+      ],
+      [
+        -99.46634,
+        19.3586
+      ],
+      [
+        -99.4661,
+        19.35879
+      ],
+      [
+        -99.46575,
+        19.3591
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314053354,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.46936,
+        19.35774
+      ],
+      [
+        -99.46892,
+        19.35779
+      ],
+      [
+        -99.46864,
+        19.35783
+      ],
+      [
+        -99.4684,
+        19.35787
+      ],
+      [
+        -99.4682,
+        19.35791
+      ],
+      [
+        -99.46797,
+        19.35796
+      ],
+      [
+        -99.46775,
+        19.35803
+      ],
+      [
+        -99.46752,
+        19.35811
+      ],
+      [
+        -99.46729,
+        19.3582
+      ],
+      [
+        -99.4671,
+        19.35829
+      ],
+      [
+        -99.46692,
+        19.35838
+      ],
+      [
+        -99.46672,
+        19.3585
+      ],
+      [
+        -99.46653,
+        19.35862
+      ],
+      [
+        -99.46631,
+        19.35878
+      ],
+      [
+        -99.46608,
+        19.35897
+      ],
+      [
+        -99.46589,
+        19.35915
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1289261969,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.46575,
+        19.3591
+      ],
+      [
+        -99.4655,
+        19.35936
+      ],
+      [
+        -99.46464,
+        19.36042
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1383215750,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.46589,
+        19.35915
+      ],
+      [
+        -99.46557,
+        19.35947
+      ],
+      [
+        -99.4653,
+        19.35978
+      ],
+      [
+        -99.46514,
+        19.35997
+      ],
+      [
+        -99.46496,
+        19.36018
+      ],
+      [
+        -99.46474,
+        19.36044
+      ],
+      [
+        -99.46439,
+        19.36084
+      ],
+      [
+        -99.46424,
+        19.36101
+      ],
+      [
+        -99.46402,
+        19.36125
+      ],
+      [
+        -99.46386,
+        19.36146
+      ],
+      [
+        -99.4636,
+        19.36173
+      ],
+      [
+        -99.46343,
+        19.36187
+      ],
+      [
+        -99.46326,
+        19.36199
+      ],
+      [
+        -99.46305,
+        19.36212
+      ],
+      [
+        -99.46285,
+        19.36223
+      ],
+      [
+        -99.46258,
+        19.36235
+      ],
+      [
+        -99.46234,
+        19.36244
+      ],
+      [
+        -99.46209,
+        19.36252
+      ],
+      [
+        -99.46188,
+        19.36257
+      ],
+      [
+        -99.46157,
+        19.3626
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314051803,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45712,
+        19.35989
+      ],
+      [
+        -99.45727,
+        19.36016
+      ],
+      [
+        -99.45738,
+        19.36035
+      ],
+      [
+        -99.45758,
+        19.36059
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314051802,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.457,
+        19.35994
+      ],
+      [
+        -99.45713,
+        19.36018
+      ],
+      [
+        -99.45727,
+        19.36042
+      ],
+      [
+        -99.45743,
+        19.36069
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1348053096,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.46464,
+        19.36042
+      ],
+      [
+        -99.46422,
+        19.36091
+      ],
+      [
+        -99.464,
+        19.36115
+      ],
+      [
+        -99.46377,
+        19.36138
+      ],
+      [
+        -99.46351,
+        19.3616
+      ],
+      [
+        -99.46327,
+        19.36178
+      ],
+      [
+        -99.46302,
+        19.36194
+      ],
+      [
+        -99.46275,
+        19.36208
+      ],
+      [
+        -99.4625,
+        19.36219
+      ],
+      [
+        -99.46215,
+        19.36231
+      ],
+      [
+        -99.46179,
+        19.3624
+      ],
+      [
+        -99.46141,
+        19.36246
+      ],
+      [
+        -99.46109,
+        19.36248
+      ],
+      [
+        -99.46085,
+        19.36248
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1383215748,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45743,
+        19.36069
+      ],
+      [
+        -99.45756,
+        19.36088
+      ],
+      [
+        -99.45781,
+        19.36127
+      ],
+      [
+        -99.45798,
+        19.36145
+      ],
+      [
+        -99.45815,
+        19.36161
+      ],
+      [
+        -99.45831,
+        19.36175
+      ],
+      [
+        -99.4585,
+        19.36189
+      ],
+      [
+        -99.45872,
+        19.36204
+      ],
+      [
+        -99.45894,
+        19.36216
+      ],
+      [
+        -99.45917,
+        19.36227
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1348053097,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.45758,
+        19.36059
+      ],
+      [
+        -99.45774,
+        19.36083
+      ],
+      [
+        -99.4578,
+        19.36094
+      ],
+      [
+        -99.45797,
+        19.36118
+      ],
+      [
+        -99.45817,
+        19.36142
+      ],
+      [
+        -99.45841,
+        19.36168
+      ],
+      [
+        -99.4586,
+        19.36181
+      ],
+      [
+        -99.45892,
+        19.36201
+      ],
+      [
+        -99.45933,
+        19.3622
+      ],
+      [
+        -99.45965,
+        19.36232
+      ],
+      [
+        -99.46005,
+        19.36237
+      ],
+      [
+        -99.46047,
+        19.36242
+      ],
+      [
+        -99.46085,
+        19.36248
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316982049,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.44475,
+        19.36592
+      ],
+      [
+        -99.4443,
+        19.36612
+      ],
+      [
+        -99.44384,
+        19.36634
+      ],
+      [
+        -99.44314,
+        19.36668
+      ],
+      [
+        -99.44283,
+        19.36684
+      ],
+      [
+        -99.44255,
+        19.367
+      ],
+      [
+        -99.44222,
+        19.3672
+      ],
+      [
+        -99.44194,
+        19.36738
+      ],
+      [
+        -99.44164,
+        19.36758
+      ],
+      [
+        -99.44136,
+        19.36779
+      ],
+      [
+        -99.44107,
+        19.36801
+      ],
+      [
+        -99.44068,
+        19.36832
+      ],
+      [
+        -99.44026,
+        19.36867
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358260959,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.44275,
+        19.36677
+      ],
+      [
+        -99.44264,
+        19.36683
+      ],
+      [
+        -99.44237,
+        19.36699
+      ],
+      [
+        -99.44202,
+        19.36721
+      ],
+      [
+        -99.44171,
+        19.36741
+      ],
+      [
+        -99.44136,
+        19.36765
+      ],
+      [
+        -99.44079,
+        19.36808
+      ],
+      [
+        -99.44049,
+        19.36832
+      ],
+      [
+        -99.44015,
+        19.36861
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262402,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.44026,
+        19.36867
+      ],
+      [
+        -99.43981,
+        19.36905
+      ],
+      [
+        -99.43955,
+        19.36927
+      ],
+      [
+        -99.43928,
+        19.36949
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316670407,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.44015,
+        19.36861
+      ],
+      [
+        -99.43928,
+        19.36934
+      ],
+      [
+        -99.43884,
+        19.36969
+      ],
+      [
+        -99.43853,
+        19.36993
+      ],
+      [
+        -99.43817,
+        19.37018
+      ],
+      [
+        -99.43775,
+        19.37046
+      ],
+      [
+        -99.43742,
+        19.37066
+      ],
+      [
+        -99.43708,
+        19.37086
+      ],
+      [
+        -99.43664,
+        19.3711
+      ],
+      [
+        -99.43626,
+        19.37129
+      ],
+      [
+        -99.4359,
+        19.37146
+      ],
+      [
+        -99.43503,
+        19.37184
+      ],
+      [
+        -99.43429,
+        19.37216
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262403,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.43928,
+        19.36949
+      ],
+      [
+        -99.4391,
+        19.36964
+      ],
+      [
+        -99.43892,
+        19.36978
+      ],
+      [
+        -99.43871,
+        19.36994
+      ],
+      [
+        -99.43845,
+        19.37013
+      ],
+      [
+        -99.4381,
+        19.37037
+      ],
+      [
+        -99.43784,
+        19.37054
+      ],
+      [
+        -99.43759,
+        19.3707
+      ],
+      [
+        -99.43732,
+        19.37086
+      ],
+      [
+        -99.437,
+        19.37104
+      ],
+      [
+        -99.43672,
+        19.37119
+      ],
+      [
+        -99.43642,
+        19.37134
+      ],
+      [
+        -99.43611,
+        19.37149
+      ],
+      [
+        -99.43575,
+        19.37166
+      ],
+      [
+        -99.4347,
+        19.37211
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1313260762,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.39059,
+        19.38252
+      ],
+      [
+        -99.39076,
+        19.38243
+      ],
+      [
+        -99.39096,
+        19.38234
+      ],
+      [
+        -99.39113,
+        19.38227
+      ],
+      [
+        -99.39133,
+        19.3822
+      ],
+      [
+        -99.39157,
+        19.38213
+      ],
+      [
+        -99.39179,
+        19.38208
+      ],
+      [
+        -99.39203,
+        19.38204
+      ],
+      [
+        -99.39227,
+        19.38201
+      ],
+      [
+        -99.39258,
+        19.382
+      ],
+      [
+        -99.39287,
+        19.38201
+      ],
+      [
+        -99.39314,
+        19.38204
+      ],
+      [
+        -99.39344,
+        19.38209
+      ],
+      [
+        -99.39369,
+        19.38215
+      ],
+      [
+        -99.39398,
+        19.38224
+      ],
+      [
+        -99.39424,
+        19.38234
+      ],
+      [
+        -99.39447,
+        19.38245
+      ],
+      [
+        -99.39472,
+        19.38259
+      ],
+      [
+        -99.39498,
+        19.38277
+      ],
+      [
+        -99.39522,
+        19.38296
+      ],
+      [
+        -99.39545,
+        19.38317
+      ],
+      [
+        -99.39572,
+        19.38344
+      ],
+      [
+        -99.39597,
+        19.38369
+      ],
+      [
+        -99.39633,
+        19.38408
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314071000,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.39068,
+        19.38233
+      ],
+      [
+        -99.3909,
+        19.38223
+      ],
+      [
+        -99.3911,
+        19.38215
+      ],
+      [
+        -99.39132,
+        19.38207
+      ],
+      [
+        -99.39158,
+        19.382
+      ],
+      [
+        -99.39186,
+        19.38194
+      ],
+      [
+        -99.39216,
+        19.3819
+      ],
+      [
+        -99.39245,
+        19.38188
+      ],
+      [
+        -99.39281,
+        19.38188
+      ],
+      [
+        -99.39312,
+        19.38191
+      ],
+      [
+        -99.39337,
+        19.38195
+      ],
+      [
+        -99.39363,
+        19.38201
+      ],
+      [
+        -99.39389,
+        19.38209
+      ],
+      [
+        -99.39418,
+        19.38219
+      ],
+      [
+        -99.39443,
+        19.3823
+      ],
+      [
+        -99.39465,
+        19.38242
+      ],
+      [
+        -99.39487,
+        19.38255
+      ],
+      [
+        -99.39508,
+        19.3827
+      ],
+      [
+        -99.39527,
+        19.38285
+      ],
+      [
+        -99.3954,
+        19.38296
+      ],
+      [
+        -99.39564,
+        19.38318
+      ],
+      [
+        -99.39601,
+        19.38357
+      ],
+      [
+        -99.39668,
+        19.38428
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267286,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.39633,
+        19.38408
+      ],
+      [
+        -99.39661,
+        19.38438
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1315216722,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.39059,
+        19.38252
+      ],
+      [
+        -99.39042,
+        19.38262
+      ],
+      [
+        -99.39023,
+        19.38275
+      ],
+      [
+        -99.39009,
+        19.38286
+      ],
+      [
+        -99.38989,
+        19.38303
+      ],
+      [
+        -99.38969,
+        19.38324
+      ],
+      [
+        -99.38949,
+        19.38347
+      ],
+      [
+        -99.38932,
+        19.3837
+      ],
+      [
+        -99.38918,
+        19.38392
+      ],
+      [
+        -99.38905,
+        19.38416
+      ],
+      [
+        -99.38894,
+        19.38442
+      ],
+      [
+        -99.38885,
+        19.38468
+      ],
+      [
+        -99.38879,
+        19.38489
+      ],
+      [
+        -99.38875,
+        19.3851
+      ],
+      [
+        -99.38872,
+        19.38535
+      ],
+      [
+        -99.38871,
+        19.38555
+      ],
+      [
+        -99.38871,
+        19.38579
+      ],
+      [
+        -99.38872,
+        19.38603
+      ],
+      [
+        -99.38875,
+        19.38639
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1310962896,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.39068,
+        19.38233
+      ],
+      [
+        -99.39045,
+        19.38246
+      ],
+      [
+        -99.39025,
+        19.38259
+      ],
+      [
+        -99.39009,
+        19.38271
+      ],
+      [
+        -99.38992,
+        19.38284
+      ],
+      [
+        -99.38976,
+        19.38298
+      ],
+      [
+        -99.38964,
+        19.3831
+      ],
+      [
+        -99.38951,
+        19.38324
+      ],
+      [
+        -99.38936,
+        19.38342
+      ],
+      [
+        -99.38922,
+        19.38361
+      ],
+      [
+        -99.38909,
+        19.38382
+      ],
+      [
+        -99.38898,
+        19.38401
+      ],
+      [
+        -99.38889,
+        19.3842
+      ],
+      [
+        -99.38879,
+        19.38444
+      ],
+      [
+        -99.38873,
+        19.38462
+      ],
+      [
+        -99.38866,
+        19.38488
+      ],
+      [
+        -99.38861,
+        19.38512
+      ],
+      [
+        -99.38858,
+        19.38534
+      ],
+      [
+        -99.38857,
+        19.38559
+      ],
+      [
+        -99.38857,
+        19.38588
+      ],
+      [
+        -99.38859,
+        19.38618
+      ],
+      [
+        -99.38864,
+        19.38663
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314073601,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.39668,
+        19.38428
+      ],
+      [
+        -99.39718,
+        19.3848
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267287,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.39661,
+        19.38438
+      ],
+      [
+        -99.39702,
+        19.38481
+      ],
+      [
+        -99.39725,
+        19.38503
+      ],
+      [
+        -99.39748,
+        19.38523
+      ],
+      [
+        -99.39768,
+        19.38539
+      ],
+      [
+        -99.3979,
+        19.38554
+      ],
+      [
+        -99.39814,
+        19.38569
+      ],
+      [
+        -99.39844,
+        19.38584
+      ],
+      [
+        -99.39872,
+        19.38595
+      ],
+      [
+        -99.39901,
+        19.38604
+      ],
+      [
+        -99.39927,
+        19.38611
+      ],
+      [
+        -99.3995,
+        19.38615
+      ],
+      [
+        -99.39976,
+        19.38618
+      ],
+      [
+        -99.4001,
+        19.3862
+      ],
+      [
+        -99.40039,
+        19.38619
+      ],
+      [
+        -99.40065,
+        19.38617
+      ],
+      [
+        -99.40085,
+        19.38615
+      ],
+      [
+        -99.40118,
+        19.38611
+      ],
+      [
+        -99.40188,
+        19.38601
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314073602,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.39718,
+        19.3848
+      ],
+      [
+        -99.39744,
+        19.38504
+      ],
+      [
+        -99.39763,
+        19.3852
+      ],
+      [
+        -99.39789,
+        19.3854
+      ],
+      [
+        -99.39815,
+        19.38556
+      ],
+      [
+        -99.39844,
+        19.38571
+      ],
+      [
+        -99.39877,
+        19.38585
+      ],
+      [
+        -99.39914,
+        19.38596
+      ],
+      [
+        -99.39941,
+        19.38602
+      ],
+      [
+        -99.39969,
+        19.38606
+      ],
+      [
+        -99.40001,
+        19.38608
+      ],
+      [
+        -99.40033,
+        19.38608
+      ],
+      [
+        -99.40064,
+        19.38606
+      ],
+      [
+        -99.40113,
+        19.386
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314072205,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.40264,
+        19.38578
+      ],
+      [
+        -99.40113,
+        19.386
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262400,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.4026,
+        19.38591
+      ],
+      [
+        -99.40188,
+        19.38601
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1315216723,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38875,
+        19.38639
+      ],
+      [
+        -99.38881,
+        19.38686
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1310962897,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38864,
+        19.38663
+      ],
+      [
+        -99.3888,
+        19.38772
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314069649,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38881,
+        19.38686
+      ],
+      [
+        -99.38892,
+        19.38765
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262401,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.4347,
+        19.37211
+      ],
+      [
+        -99.43444,
+        19.37222
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316670410,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.43429,
+        19.37216
+      ],
+      [
+        -99.43276,
+        19.37282
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316670408,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.43444,
+        19.37222
+      ],
+      [
+        -99.43281,
+        19.37292
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1236968494,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.42253,
+        19.37374
+      ],
+      [
+        -99.42236,
+        19.37386
+      ],
+      [
+        -99.42221,
+        19.37398
+      ],
+      [
+        -99.42201,
+        19.37416
+      ],
+      [
+        -99.42181,
+        19.37438
+      ],
+      [
+        -99.42162,
+        19.37461
+      ],
+      [
+        -99.42143,
+        19.37488
+      ],
+      [
+        -99.42124,
+        19.3752
+      ],
+      [
+        -99.42114,
+        19.37542
+      ],
+      [
+        -99.42106,
+        19.37561
+      ],
+      [
+        -99.42096,
+        19.37591
+      ],
+      [
+        -99.42087,
+        19.37629
+      ],
+      [
+        -99.42082,
+        19.37662
+      ],
+      [
+        -99.42079,
+        19.37702
+      ],
+      [
+        -99.42078,
+        19.3773
+      ],
+      [
+        -99.42078,
+        19.37796
+      ],
+      [
+        -99.42077,
+        19.37858
+      ],
+      [
+        -99.42076,
+        19.37888
+      ],
+      [
+        -99.42074,
+        19.37912
+      ],
+      [
+        -99.42072,
+        19.3793
+      ],
+      [
+        -99.42067,
+        19.37957
+      ],
+      [
+        -99.42062,
+        19.37978
+      ],
+      [
+        -99.42055,
+        19.38
+      ],
+      [
+        -99.42047,
+        19.38021
+      ],
+      [
+        -99.42037,
+        19.38044
+      ],
+      [
+        -99.42028,
+        19.38061
+      ],
+      [
+        -99.42019,
+        19.38076
+      ],
+      [
+        -99.4201,
+        19.38089
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1236968496,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.42276,
+        19.37373
+      ],
+      [
+        -99.42256,
+        19.37387
+      ],
+      [
+        -99.42241,
+        19.37399
+      ],
+      [
+        -99.42224,
+        19.37413
+      ],
+      [
+        -99.42209,
+        19.37427
+      ],
+      [
+        -99.42194,
+        19.37442
+      ],
+      [
+        -99.4218,
+        19.37458
+      ],
+      [
+        -99.42167,
+        19.37475
+      ],
+      [
+        -99.42153,
+        19.37495
+      ],
+      [
+        -99.4214,
+        19.37516
+      ],
+      [
+        -99.4213,
+        19.37536
+      ],
+      [
+        -99.42121,
+        19.37556
+      ],
+      [
+        -99.42112,
+        19.37582
+      ],
+      [
+        -99.42104,
+        19.37611
+      ],
+      [
+        -99.42099,
+        19.37634
+      ],
+      [
+        -99.42096,
+        19.37651
+      ],
+      [
+        -99.42094,
+        19.37667
+      ],
+      [
+        -99.42091,
+        19.37708
+      ],
+      [
+        -99.42091,
+        19.37734
+      ],
+      [
+        -99.4209,
+        19.37837
+      ],
+      [
+        -99.4209,
+        19.37859
+      ],
+      [
+        -99.42089,
+        19.37879
+      ],
+      [
+        -99.42088,
+        19.37901
+      ],
+      [
+        -99.42086,
+        19.37923
+      ],
+      [
+        -99.42084,
+        19.37942
+      ],
+      [
+        -99.42081,
+        19.37961
+      ],
+      [
+        -99.42077,
+        19.37978
+      ],
+      [
+        -99.42072,
+        19.37996
+      ],
+      [
+        -99.42066,
+        19.38014
+      ],
+      [
+        -99.42058,
+        19.38033
+      ],
+      [
+        -99.4205,
+        19.3805
+      ],
+      [
+        -99.42042,
+        19.38065
+      ],
+      [
+        -99.42034,
+        19.38079
+      ],
+      [
+        -99.42024,
+        19.38094
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1286146660,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.4201,
+        19.38089
+      ],
+      [
+        -99.41997,
+        19.38107
+      ],
+      [
+        -99.41983,
+        19.38124
+      ],
+      [
+        -99.41968,
+        19.3814
+      ],
+      [
+        -99.41949,
+        19.38158
+      ],
+      [
+        -99.4193,
+        19.38173
+      ],
+      [
+        -99.41908,
+        19.38189
+      ],
+      [
+        -99.41883,
+        19.38205
+      ],
+      [
+        -99.41853,
+        19.38222
+      ],
+      [
+        -99.41817,
+        19.38241
+      ],
+      [
+        -99.41753,
+        19.38272
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1246298999,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.42024,
+        19.38094
+      ],
+      [
+        -99.42012,
+        19.38111
+      ],
+      [
+        -99.41996,
+        19.3813
+      ],
+      [
+        -99.41981,
+        19.38145
+      ],
+      [
+        -99.4196,
+        19.38164
+      ],
+      [
+        -99.41939,
+        19.38182
+      ],
+      [
+        -99.41921,
+        19.38195
+      ],
+      [
+        -99.41903,
+        19.38207
+      ],
+      [
+        -99.41884,
+        19.38219
+      ],
+      [
+        -99.41862,
+        19.38231
+      ],
+      [
+        -99.41838,
+        19.38244
+      ],
+      [
+        -99.41768,
+        19.38278
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314071686,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.41768,
+        19.38278
+      ],
+      [
+        -99.41702,
+        19.3831
+      ],
+      [
+        -99.41678,
+        19.38321
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1289685133,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.41753,
+        19.38272
+      ],
+      [
+        -99.41694,
+        19.38301
+      ],
+      [
+        -99.41636,
+        19.38327
+      ],
+      [
+        -99.41595,
+        19.38344
+      ],
+      [
+        -99.41555,
+        19.38359
+      ],
+      [
+        -99.4151,
+        19.38374
+      ],
+      [
+        -99.41455,
+        19.38391
+      ],
+      [
+        -99.4141,
+        19.38403
+      ],
+      [
+        -99.41358,
+        19.38415
+      ],
+      [
+        -99.41303,
+        19.38426
+      ],
+      [
+        -99.41268,
+        19.38432
+      ],
+      [
+        -99.41233,
+        19.38437
+      ],
+      [
+        -99.41115,
+        19.38454
+      ],
+      [
+        -99.40965,
+        19.38476
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316701941,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.41678,
+        19.38321
+      ],
+      [
+        -99.41637,
+        19.38339
+      ],
+      [
+        -99.41611,
+        19.3835
+      ],
+      [
+        -99.4159,
+        19.38358
+      ],
+      [
+        -99.41555,
+        19.38371
+      ],
+      [
+        -99.41534,
+        19.38378
+      ],
+      [
+        -99.41512,
+        19.38385
+      ],
+      [
+        -99.4148,
+        19.38395
+      ],
+      [
+        -99.41442,
+        19.38406
+      ],
+      [
+        -99.41402,
+        19.38417
+      ],
+      [
+        -99.41376,
+        19.38423
+      ],
+      [
+        -99.41348,
+        19.38429
+      ],
+      [
+        -99.41317,
+        19.38435
+      ],
+      [
+        -99.41278,
+        19.38442
+      ],
+      [
+        -99.41237,
+        19.38448
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1290019885,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.40965,
+        19.38476
+      ],
+      [
+        -99.40627,
+        19.38525
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1316701942,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.41237,
+        19.38448
+      ],
+      [
+        -99.40415,
+        19.38568
+      ],
+      [
+        -99.4026,
+        19.38591
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314068374,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.3888,
+        19.38772
+      ],
+      [
+        -99.38903,
+        19.3893
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1236933488,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38892,
+        19.38765
+      ],
+      [
+        -99.3892,
+        19.38964
+      ],
+      [
+        -99.38926,
+        19.39006
+      ],
+      [
+        -99.3893,
+        19.39037
+      ],
+      [
+        -99.38933,
+        19.39068
+      ],
+      [
+        -99.38935,
+        19.39094
+      ],
+      [
+        -99.38937,
+        19.39126
+      ],
+      [
+        -99.38937,
+        19.39156
+      ],
+      [
+        -99.38937,
+        19.39185
+      ],
+      [
+        -99.38935,
+        19.3922
+      ],
+      [
+        -99.38932,
+        19.39252
+      ],
+      [
+        -99.38929,
+        19.3928
+      ],
+      [
+        -99.38914,
+        19.39378
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314068375,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38903,
+        19.3893
+      ],
+      [
+        -99.38911,
+        19.38987
+      ],
+      [
+        -99.38917,
+        19.39028
+      ],
+      [
+        -99.3892,
+        19.39055
+      ],
+      [
+        -99.38922,
+        19.39077
+      ],
+      [
+        -99.38923,
+        19.39094
+      ],
+      [
+        -99.38924,
+        19.39116
+      ],
+      [
+        -99.38925,
+        19.39144
+      ],
+      [
+        -99.38925,
+        19.39176
+      ],
+      [
+        -99.38923,
+        19.39214
+      ],
+      [
+        -99.38921,
+        19.39241
+      ],
+      [
+        -99.38918,
+        19.39271
+      ],
+      [
+        -99.38913,
+        19.3931
+      ],
+      [
+        -99.38903,
+        19.3937
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1290019886,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.40627,
+        19.38525
+      ],
+      [
+        -99.40264,
+        19.38578
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314034784,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.36882,
+        19.41462
+      ],
+      [
+        -99.36879,
+        19.41496
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314062762,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38914,
+        19.39378
+      ],
+      [
+        -99.38899,
+        19.39465
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314053695,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38903,
+        19.3937
+      ],
+      [
+        -99.38877,
+        19.39521
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262398,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38899,
+        19.39465
+      ],
+      [
+        -99.38886,
+        19.39541
+      ],
+      [
+        -99.38881,
+        19.39566
+      ],
+      [
+        -99.38875,
+        19.39593
+      ],
+      [
+        -99.38871,
+        19.39608
+      ],
+      [
+        -99.38867,
+        19.39622
+      ],
+      [
+        -99.38861,
+        19.39639
+      ],
+      [
+        -99.38854,
+        19.39656
+      ],
+      [
+        -99.38846,
+        19.39674
+      ],
+      [
+        -99.3884,
+        19.39687
+      ],
+      [
+        -99.38832,
+        19.39702
+      ],
+      [
+        -99.38822,
+        19.39719
+      ],
+      [
+        -99.38814,
+        19.39732
+      ],
+      [
+        -99.388,
+        19.39751
+      ],
+      [
+        -99.38784,
+        19.3977
+      ],
+      [
+        -99.3877,
+        19.39786
+      ],
+      [
+        -99.38756,
+        19.398
+      ],
+      [
+        -99.38738,
+        19.39816
+      ],
+      [
+        -99.38722,
+        19.3983
+      ],
+      [
+        -99.38698,
+        19.39849
+      ],
+      [
+        -99.38674,
+        19.39867
+      ],
+      [
+        -99.38605,
+        19.39916
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314058212,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38877,
+        19.39521
+      ],
+      [
+        -99.38871,
+        19.39556
+      ],
+      [
+        -99.38864,
+        19.39586
+      ],
+      [
+        -99.38855,
+        19.3962
+      ],
+      [
+        -99.38844,
+        19.39651
+      ],
+      [
+        -99.3883,
+        19.39681
+      ],
+      [
+        -99.38816,
+        19.39706
+      ],
+      [
+        -99.38801,
+        19.39729
+      ],
+      [
+        -99.38785,
+        19.39751
+      ],
+      [
+        -99.38767,
+        19.39772
+      ],
+      [
+        -99.38751,
+        19.39788
+      ],
+      [
+        -99.38727,
+        19.3981
+      ],
+      [
+        -99.38701,
+        19.39832
+      ],
+      [
+        -99.38666,
+        19.39858
+      ],
+      [
+        -99.38596,
+        19.39908
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1348256127,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38596,
+        19.39908
+      ],
+      [
+        -99.38538,
+        19.39949
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1348256124,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38605,
+        19.39916
+      ],
+      [
+        -99.38547,
+        19.39957
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1348256128,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38538,
+        19.39949
+      ],
+      [
+        -99.38487,
+        19.39982
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1348256125,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38547,
+        19.39957
+      ],
+      [
+        -99.3852,
+        19.39975
+      ],
+      [
+        -99.38494,
+        19.39991
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314058209,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38487,
+        19.39982
+      ],
+      [
+        -99.38459,
+        19.39997
+      ],
+      [
+        -99.38433,
+        19.4001
+      ],
+      [
+        -99.3841,
+        19.4002
+      ],
+      [
+        -99.38388,
+        19.40028
+      ],
+      [
+        -99.38358,
+        19.40038
+      ],
+      [
+        -99.38333,
+        19.40044
+      ],
+      [
+        -99.38304,
+        19.40049
+      ],
+      [
+        -99.38273,
+        19.40053
+      ],
+      [
+        -99.38221,
+        19.40057
+      ],
+      [
+        -99.38175,
+        19.40059
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314058208,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38494,
+        19.39991
+      ],
+      [
+        -99.38473,
+        19.40003
+      ],
+      [
+        -99.38452,
+        19.40014
+      ],
+      [
+        -99.3843,
+        19.40024
+      ],
+      [
+        -99.38407,
+        19.40034
+      ],
+      [
+        -99.38372,
+        19.40046
+      ],
+      [
+        -99.38343,
+        19.40054
+      ],
+      [
+        -99.38316,
+        19.4006
+      ],
+      [
+        -99.38296,
+        19.40064
+      ],
+      [
+        -99.38268,
+        19.40068
+      ],
+      [
+        -99.38227,
+        19.40072
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1236933509,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38175,
+        19.40059
+      ],
+      [
+        -99.38078,
+        19.40062
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314037970,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38078,
+        19.40062
+      ],
+      [
+        -99.38044,
+        19.40062
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1382923335,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38044,
+        19.40062
+      ],
+      [
+        -99.37972,
+        19.40063
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1382923336,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.37972,
+        19.40063
+      ],
+      [
+        -99.37916,
+        19.40064
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314051977,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38227,
+        19.40072
+      ],
+      [
+        -99.38175,
+        19.40074
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314039138,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38089,
+        19.40074
+      ],
+      [
+        -99.3801,
+        19.40074
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1236933511,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.38175,
+        19.40074
+      ],
+      [
+        -99.38089,
+        19.40074
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314039139,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.3801,
+        19.40074
+      ],
+      [
+        -99.3791,
+        19.40075
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267276,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.36174,
+        19.41867
+      ],
+      [
+        -99.36239,
+        19.41871
+      ],
+      [
+        -99.36409,
+        19.41883
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267282,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.36161,
+        19.41878
+      ],
+      [
+        -99.36184,
+        19.41879
+      ],
+      [
+        -99.36276,
+        19.41885
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314014336,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.36276,
+        19.41885
+      ],
+      [
+        -99.36423,
+        19.41896
+      ],
+      [
+        -99.36455,
+        19.41897
+      ],
+      [
+        -99.3648,
+        19.41897
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267283,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.36161,
+        19.41878
+      ],
+      [
+        -99.36144,
+        19.41878
+      ],
+      [
+        -99.36106,
+        19.4188
+      ],
+      [
+        -99.36077,
+        19.41883
+      ],
+      [
+        -99.36049,
+        19.41888
+      ],
+      [
+        -99.3602,
+        19.41896
+      ],
+      [
+        -99.35991,
+        19.41906
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267277,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.36174,
+        19.41867
+      ],
+      [
+        -99.36131,
+        19.41866
+      ],
+      [
+        -99.36106,
+        19.41867
+      ],
+      [
+        -99.36078,
+        19.4187
+      ],
+      [
+        -99.36047,
+        19.41876
+      ],
+      [
+        -99.36019,
+        19.41883
+      ],
+      [
+        -99.3599,
+        19.41893
+      ],
+      [
+        -99.35961,
+        19.41905
+      ],
+      [
+        -99.35928,
+        19.41921
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314025087,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.37916,
+        19.40064
+      ],
+      [
+        -99.37873,
+        19.40064
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262396,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.3791,
+        19.40075
+      ],
+      [
+        -99.37839,
+        19.40076
+      ],
+      [
+        -99.37792,
+        19.40077
+      ],
+      [
+        -99.37753,
+        19.4008
+      ],
+      [
+        -99.37721,
+        19.40084
+      ],
+      [
+        -99.37691,
+        19.40091
+      ],
+      [
+        -99.37658,
+        19.401
+      ],
+      [
+        -99.37628,
+        19.40111
+      ],
+      [
+        -99.37596,
+        19.40126
+      ],
+      [
+        -99.37572,
+        19.40139
+      ],
+      [
+        -99.37553,
+        19.40151
+      ],
+      [
+        -99.37527,
+        19.40169
+      ],
+      [
+        -99.375,
+        19.40189
+      ],
+      [
+        -99.37474,
+        19.4021
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317107074,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.37873,
+        19.40064
+      ],
+      [
+        -99.37811,
+        19.40065
+      ],
+      [
+        -99.3776,
+        19.40068
+      ],
+      [
+        -99.37724,
+        19.40073
+      ],
+      [
+        -99.37689,
+        19.4008
+      ],
+      [
+        -99.37652,
+        19.40091
+      ],
+      [
+        -99.37619,
+        19.40103
+      ],
+      [
+        -99.37593,
+        19.40115
+      ],
+      [
+        -99.3756,
+        19.40133
+      ],
+      [
+        -99.37527,
+        19.40155
+      ],
+      [
+        -99.37492,
+        19.40181
+      ],
+      [
+        -99.37449,
+        19.40215
+      ],
+      [
+        -99.37405,
+        19.40251
+      ],
+      [
+        -99.37367,
+        19.40284
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262397,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.37474,
+        19.4021
+      ],
+      [
+        -99.37448,
+        19.40231
+      ],
+      [
+        -99.37383,
+        19.40285
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1382923333,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.37367,
+        19.40284
+      ],
+      [
+        -99.37335,
+        19.40313
+      ],
+      [
+        -99.37307,
+        19.40345
+      ],
+      [
+        -99.37297,
+        19.40358
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1382923334,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.37297,
+        19.40358
+      ],
+      [
+        -99.37274,
+        19.40386
+      ],
+      [
+        -99.37251,
+        19.40423
+      ],
+      [
+        -99.37233,
+        19.40456
+      ],
+      [
+        -99.37214,
+        19.40501
+      ],
+      [
+        -99.37196,
+        19.40554
+      ],
+      [
+        -99.37165,
+        19.40666
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314038420,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.37383,
+        19.40285
+      ],
+      [
+        -99.37353,
+        19.40312
+      ],
+      [
+        -99.37326,
+        19.4034
+      ],
+      [
+        -99.37306,
+        19.40363
+      ],
+      [
+        -99.37287,
+        19.40388
+      ],
+      [
+        -99.37267,
+        19.40418
+      ],
+      [
+        -99.37252,
+        19.40445
+      ],
+      [
+        -99.37237,
+        19.40476
+      ],
+      [
+        -99.37225,
+        19.40507
+      ],
+      [
+        -99.37213,
+        19.40542
+      ],
+      [
+        -99.37201,
+        19.4058
+      ],
+      [
+        -99.37152,
+        19.40758
+      ],
+      [
+        -99.37137,
+        19.40816
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267278,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.35928,
+        19.41921
+      ],
+      [
+        -99.35887,
+        19.41943
+      ],
+      [
+        -99.35806,
+        19.41988
+      ],
+      [
+        -99.35763,
+        19.42011
+      ],
+      [
+        -99.3573,
+        19.42028
+      ],
+      [
+        -99.35697,
+        19.42043
+      ],
+      [
+        -99.35662,
+        19.42057
+      ],
+      [
+        -99.3563,
+        19.42069
+      ],
+      [
+        -99.35568,
+        19.42089
+      ],
+      [
+        -99.35501,
+        19.42108
+      ],
+      [
+        -99.35394,
+        19.42138
+      ],
+      [
+        -99.35266,
+        19.42175
+      ],
+      [
+        -99.35204,
+        19.42193
+      ],
+      [
+        -99.35147,
+        19.42209
+      ],
+      [
+        -99.35112,
+        19.42221
+      ],
+      [
+        -99.35084,
+        19.42231
+      ],
+      [
+        -99.35064,
+        19.42239
+      ],
+      [
+        -99.35042,
+        19.4225
+      ],
+      [
+        -99.35021,
+        19.42262
+      ],
+      [
+        -99.35,
+        19.42275
+      ],
+      [
+        -99.34964,
+        19.42299
+      ],
+      [
+        -99.34926,
+        19.42326
+      ],
+      [
+        -99.34865,
+        19.42368
+      ],
+      [
+        -99.34839,
+        19.42386
+      ],
+      [
+        -99.34813,
+        19.424
+      ],
+      [
+        -99.34783,
+        19.42414
+      ],
+      [
+        -99.34752,
+        19.42426
+      ],
+      [
+        -99.34713,
+        19.42438
+      ],
+      [
+        -99.34696,
+        19.42443
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267281,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.35991,
+        19.41906
+      ],
+      [
+        -99.35951,
+        19.41923
+      ],
+      [
+        -99.35915,
+        19.41942
+      ],
+      [
+        -99.35881,
+        19.4196
+      ],
+      [
+        -99.35845,
+        19.4198
+      ],
+      [
+        -99.35772,
+        19.4202
+      ],
+      [
+        -99.35731,
+        19.42041
+      ],
+      [
+        -99.35698,
+        19.42056
+      ],
+      [
+        -99.35671,
+        19.42067
+      ],
+      [
+        -99.35643,
+        19.42077
+      ],
+      [
+        -99.35613,
+        19.42087
+      ],
+      [
+        -99.35584,
+        19.42096
+      ],
+      [
+        -99.35532,
+        19.42111
+      ],
+      [
+        -99.35431,
+        19.4214
+      ],
+      [
+        -99.35257,
+        19.4219
+      ],
+      [
+        -99.35154,
+        19.4222
+      ],
+      [
+        -99.35114,
+        19.42233
+      ],
+      [
+        -99.35085,
+        19.42244
+      ],
+      [
+        -99.35061,
+        19.42255
+      ],
+      [
+        -99.3504,
+        19.42266
+      ],
+      [
+        -99.35014,
+        19.42282
+      ],
+      [
+        -99.34985,
+        19.42301
+      ],
+      [
+        -99.34962,
+        19.42317
+      ],
+      [
+        -99.34936,
+        19.42335
+      ],
+      [
+        -99.34865,
+        19.42383
+      ],
+      [
+        -99.34842,
+        19.42397
+      ],
+      [
+        -99.34823,
+        19.42408
+      ],
+      [
+        -99.34805,
+        19.42417
+      ],
+      [
+        -99.34781,
+        19.42427
+      ],
+      [
+        -99.3476,
+        19.42435
+      ],
+      [
+        -99.34741,
+        19.42441
+      ],
+      [
+        -99.34698,
+        19.42454
+      ],
+      [
+        -99.34637,
+        19.42473
+      ],
+      [
+        -99.34573,
+        19.42491
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267279,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34696,
+        19.42443
+      ],
+      [
+        -99.34638,
+        19.4246
+      ],
+      [
+        -99.34591,
+        19.42473
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358261447,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.37165,
+        19.40666
+      ],
+      [
+        -99.37102,
+        19.40896
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314038421,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.37137,
+        19.40816
+      ],
+      [
+        -99.37121,
+        19.40874
+      ],
+      [
+        -99.37106,
+        19.40928
+      ],
+      [
+        -99.37096,
+        19.40964
+      ],
+      [
+        -99.37081,
+        19.41012
+      ],
+      [
+        -99.37069,
+        19.41046
+      ],
+      [
+        -99.37059,
+        19.41071
+      ],
+      [
+        -99.37047,
+        19.41098
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358261448,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.37102,
+        19.40896
+      ],
+      [
+        -99.37099,
+        19.40908
+      ],
+      [
+        -99.37084,
+        19.4096
+      ],
+      [
+        -99.37072,
+        19.40996
+      ],
+      [
+        -99.37059,
+        19.41035
+      ],
+      [
+        -99.37049,
+        19.41061
+      ],
+      [
+        -99.37036,
+        19.4109
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314034783,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.37036,
+        19.4109
+      ],
+      [
+        -99.37021,
+        19.41122
+      ],
+      [
+        -99.37004,
+        19.41154
+      ],
+      [
+        -99.36951,
+        19.41244
+      ],
+      [
+        -99.36935,
+        19.41271
+      ],
+      [
+        -99.3692,
+        19.41301
+      ],
+      [
+        -99.36908,
+        19.41329
+      ],
+      [
+        -99.36899,
+        19.41357
+      ],
+      [
+        -99.36892,
+        19.41388
+      ],
+      [
+        -99.36887,
+        19.41418
+      ],
+      [
+        -99.36882,
+        19.41462
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314004395,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.37047,
+        19.41098
+      ],
+      [
+        -99.37034,
+        19.41125
+      ],
+      [
+        -99.37021,
+        19.4115
+      ],
+      [
+        -99.37008,
+        19.41173
+      ],
+      [
+        -99.36956,
+        19.41259
+      ],
+      [
+        -99.36939,
+        19.41291
+      ],
+      [
+        -99.36926,
+        19.41319
+      ],
+      [
+        -99.36917,
+        19.41343
+      ],
+      [
+        -99.36909,
+        19.41368
+      ],
+      [
+        -99.36905,
+        19.41386
+      ],
+      [
+        -99.36901,
+        19.41406
+      ],
+      [
+        -99.36898,
+        19.4143
+      ],
+      [
+        -99.36896,
+        19.41449
+      ],
+      [
+        -99.36887,
+        19.41546
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267274,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.31824,
+        19.42159
+      ],
+      [
+        -99.31758,
+        19.42127
+      ],
+      [
+        -99.31687,
+        19.42092
+      ],
+      [
+        -99.31658,
+        19.42079
+      ],
+      [
+        -99.31640625,
+        19.4207205
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1236936356,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.3272,
+        19.42288
+      ],
+      [
+        -99.32757,
+        19.42295
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314041677,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.32707,
+        19.42297
+      ],
+      [
+        -99.32854,
+        19.42326
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1381339427,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.32757,
+        19.42295
+      ],
+      [
+        -99.32896,
+        19.42322
+      ],
+      [
+        -99.32942,
+        19.42333
+      ],
+      [
+        -99.32977,
+        19.42343
+      ],
+      [
+        -99.33005,
+        19.42353
+      ],
+      [
+        -99.33032,
+        19.42366
+      ],
+      [
+        -99.3306,
+        19.42381
+      ],
+      [
+        -99.33086,
+        19.42398
+      ],
+      [
+        -99.3311,
+        19.42416
+      ],
+      [
+        -99.33133,
+        19.42437
+      ],
+      [
+        -99.33155,
+        19.4246
+      ],
+      [
+        -99.33176,
+        19.42487
+      ],
+      [
+        -99.33193,
+        19.42512
+      ],
+      [
+        -99.33208,
+        19.42538
+      ],
+      [
+        -99.33219,
+        19.42563
+      ],
+      [
+        -99.33229,
+        19.4259
+      ],
+      [
+        -99.33237,
+        19.42615
+      ],
+      [
+        -99.33243,
+        19.42644
+      ],
+      [
+        -99.33246,
+        19.42666
+      ],
+      [
+        -99.33247,
+        19.42691
+      ],
+      [
+        -99.33247,
+        19.42707
+      ],
+      [
+        -99.33246,
+        19.42734
+      ],
+      [
+        -99.33244,
+        19.42753
+      ],
+      [
+        -99.33241,
+        19.42773
+      ],
+      [
+        -99.33237,
+        19.42793
+      ],
+      [
+        -99.33232,
+        19.42812
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358267280,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34591,
+        19.42473
+      ],
+      [
+        -99.34535,
+        19.42491
+      ],
+      [
+        -99.34498,
+        19.42504
+      ],
+      [
+        -99.34467,
+        19.42516
+      ],
+      [
+        -99.34437,
+        19.4253
+      ],
+      [
+        -99.34413,
+        19.42544
+      ],
+      [
+        -99.34396,
+        19.42555
+      ],
+      [
+        -99.34382,
+        19.42565
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1319091991,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34573,
+        19.42491
+      ],
+      [
+        -99.3451,
+        19.42511
+      ],
+      [
+        -99.34483,
+        19.42521
+      ],
+      [
+        -99.34464,
+        19.42529
+      ],
+      [
+        -99.34448,
+        19.42537
+      ],
+      [
+        -99.34431,
+        19.42546
+      ],
+      [
+        -99.34416,
+        19.42555
+      ],
+      [
+        -99.34398,
+        19.42567
+      ],
+      [
+        -99.34382,
+        19.42579
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1319091996,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34382,
+        19.42565
+      ],
+      [
+        -99.34374,
+        19.42571
+      ],
+      [
+        -99.34355,
+        19.42587
+      ],
+      [
+        -99.34335,
+        19.42606
+      ],
+      [
+        -99.34317,
+        19.42626
+      ],
+      [
+        -99.34297,
+        19.42652
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1319091992,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34382,
+        19.42579
+      ],
+      [
+        -99.34366,
+        19.42592
+      ],
+      [
+        -99.34349,
+        19.42608
+      ],
+      [
+        -99.34334,
+        19.42624
+      ],
+      [
+        -99.34322,
+        19.42638
+      ],
+      [
+        -99.3431,
+        19.42653
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1381339426,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.32854,
+        19.42326
+      ],
+      [
+        -99.32896,
+        19.42334
+      ],
+      [
+        -99.32927,
+        19.42341
+      ],
+      [
+        -99.32953,
+        19.42348
+      ],
+      [
+        -99.32975,
+        19.42355
+      ],
+      [
+        -99.33001,
+        19.42365
+      ],
+      [
+        -99.33019,
+        19.42373
+      ],
+      [
+        -99.33035,
+        19.42381
+      ],
+      [
+        -99.33052,
+        19.42391
+      ],
+      [
+        -99.33068,
+        19.42401
+      ],
+      [
+        -99.33085,
+        19.42413
+      ],
+      [
+        -99.33101,
+        19.42425
+      ],
+      [
+        -99.33125,
+        19.42446
+      ],
+      [
+        -99.33138,
+        19.42459
+      ],
+      [
+        -99.33153,
+        19.42476
+      ],
+      [
+        -99.33167,
+        19.42494
+      ],
+      [
+        -99.3318,
+        19.42513
+      ],
+      [
+        -99.3319,
+        19.42529
+      ],
+      [
+        -99.332,
+        19.42549
+      ],
+      [
+        -99.33207,
+        19.42564
+      ],
+      [
+        -99.33214,
+        19.42584
+      ],
+      [
+        -99.33221,
+        19.42604
+      ],
+      [
+        -99.33227,
+        19.42626
+      ],
+      [
+        -99.33232,
+        19.4265
+      ],
+      [
+        -99.33235,
+        19.42673
+      ],
+      [
+        -99.33236,
+        19.42719
+      ],
+      [
+        -99.33235,
+        19.42734
+      ],
+      [
+        -99.33232,
+        19.42759
+      ],
+      [
+        -99.33227,
+        19.42784
+      ],
+      [
+        -99.3322,
+        19.42811
+      ],
+      [
+        -99.33211,
+        19.42839
+      ],
+      [
+        -99.332,
+        19.42867
+      ],
+      [
+        -99.33188,
+        19.42896
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1236936338,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34297,
+        19.42652
+      ],
+      [
+        -99.3428,
+        19.42679
+      ],
+      [
+        -99.34265,
+        19.42706
+      ],
+      [
+        -99.34253,
+        19.42733
+      ],
+      [
+        -99.34244,
+        19.42757
+      ],
+      [
+        -99.34239,
+        19.42778
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1236936337,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.3431,
+        19.42653
+      ],
+      [
+        -99.34294,
+        19.42677
+      ],
+      [
+        -99.34283,
+        19.42696
+      ],
+      [
+        -99.34272,
+        19.42719
+      ],
+      [
+        -99.34263,
+        19.4274
+      ],
+      [
+        -99.34257,
+        19.42757
+      ],
+      [
+        -99.34251,
+        19.42778
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358261441,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.33232,
+        19.42812
+      ],
+      [
+        -99.33224,
+        19.42836
+      ],
+      [
+        -99.33218,
+        19.42853
+      ],
+      [
+        -99.33211,
+        19.42871
+      ],
+      [
+        -99.33201,
+        19.42894
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314038219,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.32236,
+        19.42239
+      ],
+      [
+        -99.32308,
+        19.4224
+      ],
+      [
+        -99.32398,
+        19.42244
+      ],
+      [
+        -99.32438,
+        19.42246
+      ],
+      [
+        -99.3248,
+        19.42249
+      ],
+      [
+        -99.32518,
+        19.42253
+      ],
+      [
+        -99.32552,
+        19.42258
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262244,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.32048,
+        19.42239
+      ],
+      [
+        -99.32079,
+        19.42243
+      ],
+      [
+        -99.32115,
+        19.42246
+      ],
+      [
+        -99.32149,
+        19.42248
+      ],
+      [
+        -99.32316,
+        19.42252
+      ],
+      [
+        -99.32375,
+        19.42254
+      ],
+      [
+        -99.32424,
+        19.42256
+      ],
+      [
+        -99.32467,
+        19.42259
+      ],
+      [
+        -99.32504,
+        19.42263
+      ],
+      [
+        -99.32539,
+        19.42267
+      ],
+      [
+        -99.32573,
+        19.42272
+      ],
+      [
+        -99.32625,
+        19.42281
+      ],
+      [
+        -99.32707,
+        19.42297
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1238435059,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.32552,
+        19.42258
+      ],
+      [
+        -99.32584,
+        19.42263
+      ],
+      [
+        -99.32614,
+        19.42268
+      ],
+      [
+        -99.32668,
+        19.42278
+      ],
+      [
+        -99.3272,
+        19.42288
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358263577,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.31640625,
+        19.42060394230769
+      ],
+      [
+        -99.3165,
+        19.42064
+      ],
+      [
+        -99.31675,
+        19.42075
+      ],
+      [
+        -99.31714,
+        19.42093
+      ],
+      [
+        -99.31842,
+        19.42155
+      ],
+      [
+        -99.31895,
+        19.4218
+      ],
+      [
+        -99.31936,
+        19.42197
+      ],
+      [
+        -99.31974,
+        19.4221
+      ],
+      [
+        -99.32012,
+        19.4222
+      ],
+      [
+        -99.32041,
+        19.42226
+      ],
+      [
+        -99.32079,
+        19.42231
+      ],
+      [
+        -99.32117,
+        19.42235
+      ],
+      [
+        -99.32153,
+        19.42237
+      ],
+      [
+        -99.32236,
+        19.42239
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262243,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.31824,
+        19.42159
+      ],
+      [
+        -99.31894,
+        19.42192
+      ],
+      [
+        -99.31928,
+        19.42206
+      ],
+      [
+        -99.31955,
+        19.42216
+      ],
+      [
+        -99.31987,
+        19.42226
+      ],
+      [
+        -99.32016,
+        19.42233
+      ],
+      [
+        -99.32048,
+        19.42239
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1319091993,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34239,
+        19.42778
+      ],
+      [
+        -99.34234,
+        19.42799
+      ],
+      [
+        -99.3423,
+        19.42826
+      ],
+      [
+        -99.34228,
+        19.42861
+      ],
+      [
+        -99.34229,
+        19.42896
+      ],
+      [
+        -99.34231,
+        19.42926
+      ],
+      [
+        -99.34234,
+        19.42962
+      ],
+      [
+        -99.34243,
+        19.43053
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1319091989,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34251,
+        19.42778
+      ],
+      [
+        -99.34247,
+        19.42796
+      ],
+      [
+        -99.34243,
+        19.42822
+      ],
+      [
+        -99.34241,
+        19.42846
+      ],
+      [
+        -99.3424,
+        19.42867
+      ],
+      [
+        -99.34241,
+        19.42895
+      ],
+      [
+        -99.34242,
+        19.42917
+      ],
+      [
+        -99.34255,
+        19.43055
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358261449,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34243,
+        19.43053
+      ],
+      [
+        -99.34244,
+        19.43075
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262245,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34255,
+        19.43055
+      ],
+      [
+        -99.34256,
+        19.43085
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358261450,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34244,
+        19.43075
+      ],
+      [
+        -99.34244,
+        19.431
+      ],
+      [
+        -99.34243,
+        19.43124
+      ],
+      [
+        -99.3424,
+        19.43153
+      ],
+      [
+        -99.34235,
+        19.43179
+      ],
+      [
+        -99.34229,
+        19.43202
+      ],
+      [
+        -99.34222,
+        19.43222
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1358262246,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34256,
+        19.43085
+      ],
+      [
+        -99.34256,
+        19.43106
+      ],
+      [
+        -99.34255,
+        19.43134
+      ],
+      [
+        -99.34251,
+        19.43162
+      ],
+      [
+        -99.34244,
+        19.43192
+      ],
+      [
+        -99.34238,
+        19.43213
+      ],
+      [
+        -99.34231,
+        19.43232
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1354208498,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34222,
+        19.43222
+      ],
+      [
+        -99.34213,
+        19.43244
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1353353484,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34231,
+        19.43232
+      ],
+      [
+        -99.34224,
+        19.4325
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1354208499,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34213,
+        19.43244
+      ],
+      [
+        -99.34202,
+        19.43267
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1254076424,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.33201,
+        19.42894
+      ],
+      [
+        -99.33166,
+        19.42976
+      ],
+      [
+        -99.33156,
+        19.43001
+      ],
+      [
+        -99.33146,
+        19.4303
+      ],
+      [
+        -99.33139,
+        19.43053
+      ],
+      [
+        -99.33133,
+        19.4308
+      ],
+      [
+        -99.33129,
+        19.43104
+      ],
+      [
+        -99.33126,
+        19.43131
+      ],
+      [
+        -99.33126,
+        19.43156
+      ],
+      [
+        -99.33127,
+        19.43183
+      ],
+      [
+        -99.33131,
+        19.43208
+      ],
+      [
+        -99.33137,
+        19.43236
+      ],
+      [
+        -99.33144,
+        19.4326
+      ],
+      [
+        -99.33154,
+        19.43287
+      ],
+      [
+        -99.33165,
+        19.4331
+      ],
+      [
+        -99.3318,
+        19.43336
+      ],
+      [
+        -99.33197,
+        19.43361
+      ],
+      [
+        -99.33211,
+        19.43378
+      ],
+      [
+        -99.33227,
+        19.43396
+      ],
+      [
+        -99.33248,
+        19.43417
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1254076422,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.33188,
+        19.42896
+      ],
+      [
+        -99.33168,
+        19.42941
+      ],
+      [
+        -99.3315,
+        19.42983
+      ],
+      [
+        -99.3314,
+        19.4301
+      ],
+      [
+        -99.33133,
+        19.43031
+      ],
+      [
+        -99.33126,
+        19.43054
+      ],
+      [
+        -99.33121,
+        19.43077
+      ],
+      [
+        -99.33118,
+        19.43093
+      ],
+      [
+        -99.33116,
+        19.4311
+      ],
+      [
+        -99.33114,
+        19.43135
+      ],
+      [
+        -99.33114,
+        19.43153
+      ],
+      [
+        -99.33116,
+        19.43184
+      ],
+      [
+        -99.33118,
+        19.43202
+      ],
+      [
+        -99.33122,
+        19.43224
+      ],
+      [
+        -99.33127,
+        19.43244
+      ],
+      [
+        -99.33135,
+        19.43269
+      ],
+      [
+        -99.33145,
+        19.43294
+      ],
+      [
+        -99.33155,
+        19.43315
+      ],
+      [
+        -99.33166,
+        19.43335
+      ],
+      [
+        -99.33176,
+        19.43352
+      ],
+      [
+        -99.33191,
+        19.43372
+      ],
+      [
+        -99.33205,
+        19.43389
+      ],
+      [
+        -99.33224,
+        19.43409
+      ],
+      [
+        -99.33244,
+        19.43428
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1353353485,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34224,
+        19.4325
+      ],
+      [
+        -99.34212,
+        19.43274
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1345855566,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34202,
+        19.43267
+      ],
+      [
+        -99.34191,
+        19.43286
+      ],
+      [
+        -99.34176,
+        19.43309
+      ],
+      [
+        -99.34164,
+        19.43325
+      ],
+      [
+        -99.34149,
+        19.43342
+      ],
+      [
+        -99.34125,
+        19.43366
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1345855563,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34212,
+        19.43274
+      ],
+      [
+        -99.34203,
+        19.4329
+      ],
+      [
+        -99.34191,
+        19.43308
+      ],
+      [
+        -99.34176,
+        19.43329
+      ],
+      [
+        -99.34161,
+        19.43347
+      ],
+      [
+        -99.34145,
+        19.43364
+      ],
+      [
+        -99.34133,
+        19.43376
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1345855561,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34125,
+        19.43366
+      ],
+      [
+        -99.34111,
+        19.43378
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1345855564,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34133,
+        19.43376
+      ],
+      [
+        -99.34117,
+        19.43389
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314048902,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34111,
+        19.43378
+      ],
+      [
+        -99.34096,
+        19.4339
+      ],
+      [
+        -99.34071,
+        19.43408
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314048904,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34117,
+        19.43389
+      ],
+      [
+        -99.34103,
+        19.434
+      ],
+      [
+        -99.3409,
+        19.43409
+      ],
+      [
+        -99.34075,
+        19.43419
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317442845,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34071,
+        19.43408
+      ],
+      [
+        -99.34051,
+        19.4342
+      ],
+      [
+        -99.34034,
+        19.43429
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317442843,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34075,
+        19.43419
+      ],
+      [
+        -99.34054,
+        19.43431
+      ],
+      [
+        -99.34038,
+        19.43439
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317442846,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34034,
+        19.43429
+      ],
+      [
+        -99.34007,
+        19.43441
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317442844,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34038,
+        19.43439
+      ],
+      [
+        -99.34018,
+        19.43448
+      ],
+      [
+        -99.34,
+        19.43455
+      ],
+      [
+        -99.33974,
+        19.43464
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1244454376,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.34007,
+        19.43441
+      ],
+      [
+        -99.33976,
+        19.43452
+      ],
+      [
+        -99.33942,
+        19.43461
+      ],
+      [
+        -99.33915,
+        19.43467
+      ],
+      [
+        -99.33893,
+        19.43471
+      ],
+      [
+        -99.33868,
+        19.43475
+      ],
+      [
+        -99.33832,
+        19.4348
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1244454378,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.33974,
+        19.43464
+      ],
+      [
+        -99.33944,
+        19.43472
+      ],
+      [
+        -99.33909,
+        19.43479
+      ],
+      [
+        -99.33866,
+        19.43486
+      ],
+      [
+        -99.33829,
+        19.43491
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317442849,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.33832,
+        19.4348
+      ],
+      [
+        -99.33803,
+        19.43484
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317442850,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.33803,
+        19.43484
+      ],
+      [
+        -99.33738,
+        19.43493
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317442847,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.33829,
+        19.43491
+      ],
+      [
+        -99.338,
+        19.43495
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317005904,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.33738,
+        19.43493
+      ],
+      [
+        -99.33678,
+        19.43502
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1254076425,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.33248,
+        19.43417
+      ],
+      [
+        -99.33274,
+        19.43438
+      ],
+      [
+        -99.33295,
+        19.43453
+      ],
+      [
+        -99.33317,
+        19.43466
+      ],
+      [
+        -99.33346,
+        19.43481
+      ],
+      [
+        -99.3337,
+        19.43491
+      ],
+      [
+        -99.33392,
+        19.43499
+      ],
+      [
+        -99.33421,
+        19.43507
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1254076423,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.33244,
+        19.43428
+      ],
+      [
+        -99.33264,
+        19.43444
+      ],
+      [
+        -99.33282,
+        19.43457
+      ],
+      [
+        -99.33299,
+        19.43468
+      ],
+      [
+        -99.33322,
+        19.43481
+      ],
+      [
+        -99.33344,
+        19.43492
+      ],
+      [
+        -99.33366,
+        19.43501
+      ],
+      [
+        -99.33389,
+        19.43509
+      ],
+      [
+        -99.33413,
+        19.43516
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317005905,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.33678,
+        19.43502
+      ],
+      [
+        -99.33604,
+        19.43512
+      ],
+      [
+        -99.33576,
+        19.43515
+      ],
+      [
+        -99.33548,
+        19.43517
+      ],
+      [
+        -99.33522,
+        19.43517
+      ],
+      [
+        -99.33496,
+        19.43517
+      ],
+      [
+        -99.33477,
+        19.43516
+      ],
+      [
+        -99.33459,
+        19.43514
+      ],
+      [
+        -99.33439,
+        19.43511
+      ],
+      [
+        -99.33421,
+        19.43507
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314041712,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.33685,
+        19.43512
+      ],
+      [
+        -99.33627,
+        19.4352
+      ],
+      [
+        -99.33588,
+        19.43525
+      ],
+      [
+        -99.33555,
+        19.43528
+      ],
+      [
+        -99.3353,
+        19.43529
+      ],
+      [
+        -99.33508,
+        19.43529
+      ],
+      [
+        -99.33486,
+        19.43528
+      ],
+      [
+        -99.33466,
+        19.43526
+      ],
+      [
+        -99.33445,
+        19.43523
+      ],
+      [
+        -99.33413,
+        19.43516
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1317442848,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.338,
+        19.43495
+      ],
+      [
+        -99.33685,
+        19.43512
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314020355,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.36879,
+        19.41496
+      ],
+      [
+        -99.36875,
+        19.41543
+      ],
+      [
+        -99.36871,
+        19.41573
+      ],
+      [
+        -99.36866,
+        19.41597
+      ],
+      [
+        -99.3686,
+        19.41621
+      ],
+      [
+        -99.36849,
+        19.41651
+      ],
+      [
+        -99.36836,
+        19.4168
+      ],
+      [
+        -99.36822,
+        19.41705
+      ],
+      [
+        -99.36805,
+        19.4173
+      ],
+      [
+        -99.36789,
+        19.4175
+      ],
+      [
+        -99.36768,
+        19.41772
+      ],
+      [
+        -99.36743,
+        19.41794
+      ],
+      [
+        -99.36719,
+        19.41812
+      ],
+      [
+        -99.36692,
+        19.4183
+      ],
+      [
+        -99.3666,
+        19.41847
+      ],
+      [
+        -99.36631,
+        19.4186
+      ],
+      [
+        -99.366,
+        19.41871
+      ],
+      [
+        -99.36564,
+        19.41879
+      ],
+      [
+        -99.36536,
+        19.41883
+      ],
+      [
+        -99.36504,
+        19.41886
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314004396,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.36887,
+        19.41546
+      ],
+      [
+        -99.36883,
+        19.41574
+      ],
+      [
+        -99.36878,
+        19.41601
+      ],
+      [
+        -99.3687,
+        19.41629
+      ],
+      [
+        -99.36862,
+        19.4165
+      ],
+      [
+        -99.36851,
+        19.41675
+      ],
+      [
+        -99.36839,
+        19.41698
+      ],
+      [
+        -99.36826,
+        19.4172
+      ],
+      [
+        -99.36807,
+        19.41746
+      ],
+      [
+        -99.36788,
+        19.41768
+      ],
+      [
+        -99.36764,
+        19.41792
+      ],
+      [
+        -99.36744,
+        19.41809
+      ],
+      [
+        -99.36723,
+        19.41825
+      ],
+      [
+        -99.36702,
+        19.41838
+      ],
+      [
+        -99.36677,
+        19.41851
+      ],
+      [
+        -99.36654,
+        19.41862
+      ],
+      [
+        -99.36632,
+        19.41871
+      ],
+      [
+        -99.36605,
+        19.4188
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1314005961,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.36409,
+        19.41883
+      ],
+      [
+        -99.36444,
+        19.41885
+      ],
+      [
+        -99.36471,
+        19.41886
+      ],
+      [
+        -99.36504,
+        19.41886
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815084,
+    "poi_id": null,
+    "link_id": 1254090607,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment with opposite direction and same name found within 500m",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.36605,
+        19.4188
+      ],
+      [
+        -99.36579,
+        19.41887
+      ],
+      [
+        -99.36555,
+        19.41892
+      ],
+      [
+        -99.36531,
+        19.41895
+      ],
+      [
+        -99.36505,
+        19.41897
+      ],
+      [
+        -99.3648,
+        19.41897
+      ]
+    ]
+  }
+]

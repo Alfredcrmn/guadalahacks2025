@@ -1,0 +1,2034 @@
+[
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 723607564,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97418,
+        19.33711
+      ],
+      [
+        -98.97434,
+        19.33726
+      ],
+      [
+        -98.97446,
+        19.33738
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1307449789,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97280905,
+        19.3359375
+      ],
+      [
+        -98.97352,
+        19.33654
+      ],
+      [
+        -98.97372,
+        19.33671
+      ],
+      [
+        -98.9739,
+        19.33686
+      ],
+      [
+        -98.97405,
+        19.33699
+      ],
+      [
+        -98.97418,
+        19.33711
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1007338946,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.9730355952381,
+        19.3359375
+      ],
+      [
+        -98.97311,
+        19.336
+      ],
+      [
+        -98.97375,
+        19.33654
+      ],
+      [
+        -98.97391,
+        19.33668
+      ],
+      [
+        -98.97404,
+        19.3368
+      ],
+      [
+        -98.97421,
+        19.33695
+      ],
+      [
+        -98.97435,
+        19.33708
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 778865147,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97446,
+        19.33738
+      ],
+      [
+        -98.97462,
+        19.33755
+      ],
+      [
+        -98.97476,
+        19.3377
+      ],
+      [
+        -98.97491,
+        19.33787
+      ],
+      [
+        -98.97504,
+        19.33802
+      ],
+      [
+        -98.97517,
+        19.33818
+      ],
+      [
+        -98.97527,
+        19.33831
+      ],
+      [
+        -98.97536,
+        19.33843
+      ],
+      [
+        -98.97547,
+        19.33858
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1007338947,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97435,
+        19.33708
+      ],
+      [
+        -98.97446,
+        19.33718
+      ],
+      [
+        -98.97462,
+        19.33734
+      ],
+      [
+        -98.97475,
+        19.33747
+      ],
+      [
+        -98.97487,
+        19.3376
+      ],
+      [
+        -98.975,
+        19.33775
+      ],
+      [
+        -98.97514,
+        19.33792
+      ],
+      [
+        -98.97527,
+        19.33808
+      ],
+      [
+        -98.97539,
+        19.33823
+      ],
+      [
+        -98.97549,
+        19.33836
+      ],
+      [
+        -98.9756,
+        19.33851
+      ],
+      [
+        -98.97571,
+        19.33867
+      ],
+      [
+        -98.97586,
+        19.3389
+      ],
+      [
+        -98.97623,
+        19.33948
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 778865148,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97547,
+        19.33858
+      ],
+      [
+        -98.9756,
+        19.33877
+      ],
+      [
+        -98.97572,
+        19.33895
+      ],
+      [
+        -98.97583,
+        19.33912
+      ],
+      [
+        -98.97595,
+        19.33931
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 778743404,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97595,
+        19.33931
+      ],
+      [
+        -98.97615,
+        19.33961
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1296186874,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97623,
+        19.33948
+      ],
+      [
+        -98.97633,
+        19.33965
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1306139652,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97633,
+        19.33965
+      ],
+      [
+        -98.97643,
+        19.33981
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1306139653,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97643,
+        19.33981
+      ],
+      [
+        -98.97655,
+        19.34
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 762644443,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97681,
+        19.34042
+      ],
+      [
+        -98.97704,
+        19.3408
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 947265996,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97615,
+        19.33961
+      ],
+      [
+        -98.97628,
+        19.33982
+      ],
+      [
+        -98.97655,
+        19.34028
+      ],
+      [
+        -98.97686,
+        19.34079
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 806649427,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97655,
+        19.34
+      ],
+      [
+        -98.97681,
+        19.34042
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 778743395,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97686,
+        19.34079
+      ],
+      [
+        -98.977,
+        19.34102
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1275673868,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97704,
+        19.3408
+      ],
+      [
+        -98.97719,
+        19.34104
+      ],
+      [
+        -98.97733,
+        19.34127
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1275673869,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.977,
+        19.34102
+      ],
+      [
+        -98.97711,
+        19.3412
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1275673870,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -98.97711,
+        19.3412
+      ],
+      [
+        -98.9772,
+        19.34134
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1232551451,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01923,
+        19.33828
+      ],
+      [
+        -99.01918,
+        19.33833
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1232551453,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01923,
+        19.33828
+      ],
+      [
+        -99.01928,
+        19.33835
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1232551454,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01928,
+        19.33835
+      ],
+      [
+        -99.0193,
+        19.33839
+      ],
+      [
+        -99.01936,
+        19.33864
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1232551452,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01918,
+        19.33833
+      ],
+      [
+        -99.01918,
+        19.33849
+      ],
+      [
+        -99.01919,
+        19.33856
+      ],
+      [
+        -99.01922,
+        19.33867
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 833072191,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01936,
+        19.33864
+      ],
+      [
+        -99.01952,
+        19.33922
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 833072194,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01922,
+        19.33867
+      ],
+      [
+        -99.01938,
+        19.3392
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 864054768,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01952,
+        19.33922
+      ],
+      [
+        -99.01959,
+        19.3395
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 864054764,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01938,
+        19.3392
+      ],
+      [
+        -99.01948,
+        19.33957
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1232515814,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01959,
+        19.3395
+      ],
+      [
+        -99.01966,
+        19.33972
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1232515812,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01948,
+        19.33957
+      ],
+      [
+        -99.01953,
+        19.33975
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1232515815,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01966,
+        19.33972
+      ],
+      [
+        -99.01968,
+        19.3398
+      ],
+      [
+        -99.01969,
+        19.33989
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1232515813,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01953,
+        19.33975
+      ],
+      [
+        -99.01955,
+        19.33986
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703488455,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01955,
+        19.33986
+      ],
+      [
+        -99.01956,
+        19.34006
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703612169,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01969,
+        19.33989
+      ],
+      [
+        -99.01969,
+        19.34008
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703357663,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01956,
+        19.34006
+      ],
+      [
+        -99.01957,
+        19.34025
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703376757,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.01969,
+        19.34008
+      ],
+      [
+        -99.01964,
+        19.34013
+      ],
+      [
+        -99.01961,
+        19.34017
+      ],
+      [
+        -99.01957,
+        19.34025
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1012289149,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.064293125,
+        19.3359375
+      ],
+      [
+        -99.06429,
+        19.33605
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 864046898,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06447814705882,
+        19.3359375
+      ],
+      [
+        -99.06447,
+        19.33663
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1012289150,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06429,
+        19.33605
+      ],
+      [
+        -99.06428,
+        19.33669
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 864046899,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06447,
+        19.33663
+      ],
+      [
+        -99.06447,
+        19.33703
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1012289148,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06428,
+        19.33669
+      ],
+      [
+        -99.06428,
+        19.33713
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1267610610,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06447,
+        19.33703
+      ],
+      [
+        -99.06447,
+        19.33707
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1346920762,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06428,
+        19.33713
+      ],
+      [
+        -99.06427,
+        19.33723
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1346920763,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06427,
+        19.33723
+      ],
+      [
+        -99.06427,
+        19.3373
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1267610611,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06447,
+        19.33707
+      ],
+      [
+        -99.06448,
+        19.33747
+      ],
+      [
+        -99.06448,
+        19.3376
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 724765240,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06427,
+        19.3373
+      ],
+      [
+        -99.06426,
+        19.33742
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1012289066,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06426,
+        19.33742
+      ],
+      [
+        -99.06426,
+        19.33768
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1344162311,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06448,
+        19.3376
+      ],
+      [
+        -99.06447,
+        19.33783
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1012289067,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06426,
+        19.33768
+      ],
+      [
+        -99.06426,
+        19.33826
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1344162312,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06447,
+        19.33783
+      ],
+      [
+        -99.06446,
+        19.3383
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 918272868,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06426,
+        19.33826
+      ],
+      [
+        -99.06425,
+        19.33848
+      ],
+      [
+        -99.06425,
+        19.33858
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 918280710,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06446,
+        19.3383
+      ],
+      [
+        -99.06445,
+        19.33868
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 918272869,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06425,
+        19.33858
+      ],
+      [
+        -99.06425,
+        19.33869
+      ],
+      [
+        -99.06425,
+        19.33879
+      ],
+      [
+        -99.06426,
+        19.33889
+      ],
+      [
+        -99.06428,
+        19.33901
+      ],
+      [
+        -99.06429,
+        19.33909
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 918280711,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06445,
+        19.33868
+      ],
+      [
+        -99.06445,
+        19.33906
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 918272866,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06445,
+        19.33906
+      ],
+      [
+        -99.06445,
+        19.3392
+      ],
+      [
+        -99.06444,
+        19.33931
+      ],
+      [
+        -99.06443,
+        19.33939
+      ],
+      [
+        -99.06441,
+        19.33948
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1057251924,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06429,
+        19.33909
+      ],
+      [
+        -99.0643,
+        19.33919
+      ],
+      [
+        -99.06431,
+        19.3393
+      ],
+      [
+        -99.06431,
+        19.33938
+      ],
+      [
+        -99.0643,
+        19.33947
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1057251929,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06441,
+        19.33948
+      ],
+      [
+        -99.06439,
+        19.33955
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1347049164,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06361,
+        19.34063
+      ],
+      [
+        -99.06344,
+        19.34084
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1347050103,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06337,
+        19.34076
+      ],
+      [
+        -99.06319,
+        19.34098
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1347050107,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06344,
+        19.34084
+      ],
+      [
+        -99.06327,
+        19.34105
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1347050104,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06319,
+        19.34098
+      ],
+      [
+        -99.06303,
+        19.34119
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1347050108,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06327,
+        19.34105
+      ],
+      [
+        -99.06312,
+        19.34124
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1347050101,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.06303,
+        19.34119
+      ],
+      [
+        -99.06295,
+        19.34129
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703523129,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.05401,
+        19.3419
+      ],
+      [
+        -99.05424,
+        19.34191
+      ],
+      [
+        -99.05451,
+        19.34195
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703430737,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.05238,
+        19.34196
+      ],
+      [
+        -99.0519,
+        19.342
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703645077,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.0519,
+        19.342
+      ],
+      [
+        -99.05156,
+        19.34205
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703650828,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.05156,
+        19.34205
+      ],
+      [
+        -99.05102,
+        19.3421
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1057240188,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.05247,
+        19.34223
+      ],
+      [
+        -99.05209,
+        19.34227
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703580396,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.05209,
+        19.34227
+      ],
+      [
+        -99.05156,
+        19.34233
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703663426,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.05156,
+        19.34233
+      ],
+      [
+        -99.05108,
+        19.34238
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703540927,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.05401,
+        19.3419
+      ],
+      [
+        -99.05346,
+        19.3419
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703390975,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.05346,
+        19.3419
+      ],
+      [
+        -99.05316,
+        19.3419
+      ],
+      [
+        -99.05293,
+        19.34192
+      ],
+      [
+        -99.05279,
+        19.34193
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703355317,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.05279,
+        19.34193
+      ],
+      [
+        -99.05238,
+        19.34196
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703515696,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.05394,
+        19.34216
+      ],
+      [
+        -99.05341,
+        19.34217
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703427469,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.05341,
+        19.34217
+      ],
+      [
+        -99.05292,
+        19.3422
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703555779,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.05292,
+        19.3422
+      ],
+      [
+        -99.05247,
+        19.34223
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 833026885,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04605,
+        19.34267
+      ],
+      [
+        -99.04518,
+        19.34273
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703574314,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04278,
+        19.34297
+      ],
+      [
+        -99.04207,
+        19.34304
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1232490506,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04207,
+        19.34304
+      ],
+      [
+        -99.04148,
+        19.34309
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703564173,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04278,
+        19.3431
+      ],
+      [
+        -99.04205,
+        19.34317
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1232490511,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04205,
+        19.34317
+      ],
+      [
+        -99.0415,
+        19.34321
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1232490512,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.0415,
+        19.34321
+      ],
+      [
+        -99.04136,
+        19.34322
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1232490507,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04148,
+        19.34309
+      ],
+      [
+        -99.04133,
+        19.3431
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 983715682,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04133,
+        19.3431
+      ],
+      [
+        -99.04117,
+        19.34312
+      ],
+      [
+        -99.0407,
+        19.34318
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703532694,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.0407,
+        19.34318
+      ],
+      [
+        -99.04054,
+        19.34319
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703457222,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04136,
+        19.34322
+      ],
+      [
+        -99.04072,
+        19.3433
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703436615,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04072,
+        19.3433
+      ],
+      [
+        -99.04061,
+        19.34332
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703436591,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04072,
+        19.3433
+      ],
+      [
+        -99.04073,
+        19.34343
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703564903,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04518,
+        19.34273
+      ],
+      [
+        -99.04383,
+        19.34286
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 836654626,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04603,
+        19.34281
+      ],
+      [
+        -99.04521,
+        19.3429
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703586413,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04521,
+        19.3429
+      ],
+      [
+        -99.04384,
+        19.34299
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703531078,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04383,
+        19.34286
+      ],
+      [
+        -99.04278,
+        19.34297
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703383931,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04384,
+        19.34299
+      ],
+      [
+        -99.04278,
+        19.3431
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1268398635,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04907,
+        19.34229
+      ],
+      [
+        -99.04779,
+        19.34249
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1268398636,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04779,
+        19.34249
+      ],
+      [
+        -99.04767,
+        19.34251
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703524628,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04992,
+        19.34221
+      ],
+      [
+        -99.0495,
+        19.34226
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703559649,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.0495,
+        19.34226
+      ],
+      [
+        -99.04926,
+        19.34228
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703418601,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04926,
+        19.34228
+      ],
+      [
+        -99.04907,
+        19.34229
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703658507,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04994,
+        19.3425
+      ],
+      [
+        -99.04951,
+        19.34257
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 981857741,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04925,
+        19.34253
+      ],
+      [
+        -99.04913,
+        19.34254
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 703666987,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04925,
+        19.34253
+      ],
+      [
+        -99.04941,
+        19.34252
+      ],
+      [
+        -99.04951,
+        19.34257
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 727960911,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04767,
+        19.34251
+      ],
+      [
+        -99.04755,
+        19.34252
+      ]
+    ]
+  },
+  {
+    "tile_id": 4815096,
+    "poi_id": null,
+    "link_id": 1020691067,
+    "error_type": "incorrect_multidigit_attribution",
+    "description": "Segment marked as MULTIDIGIT=Y but no valid parallel segment found",
+    "suggestion": "Update MULTIDIGIT to 'N'",
+    "geometry": [
+      [
+        -99.04755,
+        19.34252
+      ],
+      [
+        -99.04708,
+        19.34256
+      ]
+    ]
+  }
+]
