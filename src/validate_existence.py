@@ -2,116 +2,101 @@
 
 import geopandas as gpd
 import pandas as pd
-from shapely.geometry import Point
 
-# Ajusta estas rutas si tu estructura es diferente
-# Definimos internamente los valores de lado y las flags legales
+# Constantes de lado y flags legales
 SIDE_LEFT = 'L'
 SIDE_RIGHT = 'R'
-LEGAL_FLAGS = [
-    'AR_PEDEST',   # acceso peatonal
-    'AR_TRUCKS',   # acceso camiones
-    'AR_BUS',      # acceso autobuses
-]
-
-def _merge_with_naming(pois: gpd.GeoDataFrame, naming: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
-    """
-    Une POIs con la tabla de naming por LINK_ID y nombre de calle.
-    Devuelve pois con columnas de naming (rangos).
-    """
-    # Emparejamos POI.ST_NAME con naming.ST_NAME
-    merged = pois.merge(
-        naming[['LINK_ID', 'ST_NAME', 'L_REFADDR', 'L_NREFADDR', 'R_REFADDR', 'R_NREFADDR']],
-        left_on=['LINK_ID', 'ST_NAME'],
-        right_on=['LINK_ID', 'ST_NAME'],
-        how='left',
-        validate='many_to_one'
-    )
-    return merged
-
-def _check_address_in_range(row: pd.Series) -> bool:
-    """
-    Dado un registro, determina si ACT_ST_NUM está dentro del rango
-    correspondiente al lado (L/R).  
-    """
-    num = row['ACT_ST_NUM']
-    if row['POI_ST_SD'] == SIDE_LEFT:
-        low, high = row['L_REFADDR'], row['L_NREFADDR']
-    else:
-        low, high = row['R_REFADDR'], row['R_NREFADDR']
-
-    # rangos pueden invertirse en geojson; normalizamos:
-    lo, hi = min(low, high), max(low, high)
-    return lo <= num <= hi
-
-def _detect_legal_exception(row: pd.Series, street_attrs: pd.Series) -> bool:
-    """
-    Si alguna de las flags legales está activa en street_attrs,
-    marcamos excepción legal.
-    """
-    for flag in LEGAL_FLAGS:
-        if street_attrs.get(flag, False):
-            return True
-    return False
+LEGAL_FLAGS = ['AR_PEDEST', 'AR_TRUCKS', 'AR_BUS']
 
 def validate_existence(loader_data: dict) -> gpd.GeoDataFrame:
-    """
-    Módulo 4: para cada POI determina:
-     - 'OK' si la dirección y el nombre coinciden y no aplica excepción.
-     - 'NOT_EXISTS' si está fuera de rango o faltó naming.
-     - 'LEGAL_EXCEPTION' si está fuera de rango pero hay bandera legal.
-    
-    Agrega columnas:
-     - error_type: str
-     - suggestion: str
-    """
-    pois = loader_data['pois'].copy()
-    naming = loader_data['naming']
-    streets_nav = loader_data['streets_nav']
+    pois    = loader_data['pois'].copy()
+    naming  = loader_data['naming']
+    streets = loader_data['streets_nav']
 
-    # 1) Une con naming
-    df = _merge_with_naming(pois, naming)
+    # 1) Detectar nombre de columna para LINK_ID ↔ link_id
+    poi_link_col  = 'LINK_ID'  if 'LINK_ID'  in pois.columns   else None
+    name_link_col = 'link_id'  if 'link_id'  in naming.columns else None
+    if not poi_link_col or not name_link_col:
+        raise KeyError("Expected LINK_ID in POIs and link_id in naming")
 
-    # 2) Para cada POI, comprobamos existencia
-    results = []
+    # 2) Merge POIs ↔ Naming, trayendo rangos y esquemas
+    df = pois.merge(
+        naming[[name_link_col, 'ST_NAME',
+                'L_REFADDR','L_NREFADDR','L_ADDRFORM','L_ADDRSCH',
+                'R_REFADDR','R_NREFADDR','R_ADDRFORM','R_ADDRSCH']],
+        left_on=[poi_link_col, 'ST_NAME'],
+        right_on=[name_link_col, 'ST_NAME'],
+        how='left', validate='many_to_one'
+    )
+
+    records = []
     for _, row in df.iterrows():
-        if pd.isna(row['ST_NAME']):
-            # No hubo match de calle
+        geom = row.geometry
+
+        # A) Si no tiene geometría válida → NOT_EXISTS
+        if geom is None or (hasattr(geom, 'is_empty') and geom.is_empty):
             etype = 'NOT_EXISTS'
-            suggestion = f"No matching street name for '{row['ACT_ST_NAM']}' on LINK {row['LINK_ID']}"
+            suggestion = 'No coordinates'
         else:
-            in_range = _check_address_in_range(row)
-            if in_range:
+            act_num = row.get('ACT_ST_NUM')
+            poi_name = row.get('ST_NAME')
+
+            # B) Si no tiene dirección (sin número o sin calle) → OK
+            if pd.isna(act_num) or pd.isna(poi_name):
                 etype = 'OK'
                 suggestion = ''
             else:
-                # fuera de rango → ¿excepción legal?
-                # buscamos atributos de street_nav:
-                street = streets_nav[streets_nav['LINK_ID'] == row['LINK_ID']]
-                if not street.empty and _detect_legal_exception(row, street.iloc[0]):
-                    etype = 'LEGAL_EXCEPTION'
-                    suggestion = "Access exception applies (check legal flags on segment)"
+                # C) Determinar rangos y esquema según lado
+                side = row.get('POI_ST_SD')
+                if side == SIDE_LEFT:
+                    low_raw   = row.get('L_REFADDR')
+                    high_raw  = row.get('L_NREFADDR')
+                    scheme    = row.get('L_ADDRSCH')
                 else:
-                    etype = 'NOT_EXISTS'
-                    suggestion = (
-                        f"Address {row['ACT_ST_NUM']} outside range "
-                        f"{row['L_REFADDR']}-{row['L_NREFADDR'] if row['POI_ST_SD']=='L' else row['R_REFADDR']}-{row['R_NREFADDR']}"
-                    )
-        results.append({
-            **row.drop(labels=['geometry']).to_dict(),
-            'geometry': row.geometry,
+                    low_raw   = row.get('R_REFADDR')
+                    high_raw  = row.get('R_NREFADDR')
+                    scheme    = row.get('R_ADDRSCH')
+
+                # D) Validar rango numérico + esquema par/impar
+                valid = False
+                try:
+                    low   = float(low_raw)
+                    high  = float(high_raw)
+                    num   = float(act_num)
+                    lo, hi = min(low, high), max(low, high)
+                    # rango básico
+                    if lo <= num <= hi:
+                        # si hay esquema, verificar par/impar
+                        if scheme == 'E' and (num % 2 != 0):
+                            valid = False
+                        elif scheme == 'O' and (num % 2 != 1):
+                            valid = False
+                        else:
+                            valid = True
+                except Exception:
+                    valid = False
+
+                if valid:
+                    etype = 'OK'
+                    suggestion = ''
+                else:
+                    # E) Fuera de rango → ¿excepción legal?
+                    seg = streets[streets[name_link_col] == row[poi_link_col]]
+                    if not seg.empty and any(seg.iloc[0].get(flag, False) for flag in LEGAL_FLAGS):
+                        etype = 'LEGAL_EXCEPTION'
+                        suggestion = 'Legal access flag present'
+                    else:
+                        etype = 'OUT_OF_RANGE'
+                        # muestra los límites originales en la sugerencia
+                        suggestion = f"{act_num} outside {low_raw}–{high_raw}"
+
+        # Construir registro de salida
+        rec = row.drop(labels=['geometry']).to_dict()
+        rec.update({
+            'geometry': geom,
             'error_type': etype,
             'suggestion': suggestion
         })
+        records.append(rec)
 
-    # 3) Construimos GeoDataFrame de salida
-    out = gpd.GeoDataFrame(results, crs=pois.crs)
-    return out
-
-if __name__ == "__main__":
-    # Ejemplo de uso (requiere que loader.py esté listo):
-    from src.loader import load_tile_data
-    data = load_tile_data(tile_id=4815075)
-    report = validate_existence(data)
-    report.to_file("outputs/poi_existence_4815075.geojson", driver="GeoJSON")
-    print("Existence validation complete.")
+    return gpd.GeoDataFrame(records, crs=pois.crs)

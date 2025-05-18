@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "invalid_pois_4815085",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POI_ID": 998182692, "LINK_ID": 703601364 }, "geometry": { "type": "Point", "coordinates": [ -99.140625, 19.37050207792208 ] } },
+{ "type": "Feature", "properties": { "POI_ID": 1176481060, "LINK_ID": 703646540 }, "geometry": null },
+{ "type": "Feature", "properties": { "POI_ID": 1176481059, "LINK_ID": 703646540 }, "geometry": null }
+]
+}
