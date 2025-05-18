@@ -1,6 +1,7 @@
 import os
 import geopandas as gpd
 from loader import load_tile
+from validate_slide import validate_poi_side, export_validation_results
 
 # Ruta absoluta al proyecto
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
@@ -29,5 +30,8 @@ for tile_id in tile_ids_with_data:
         print(f"POIs totales: {total}")
         print(f"Dentro del tile: {inside}")
         print(f"Fuera del tile: {outside}\n")
+        # Ejecutar Módulo 2: Validación de lado de calle
+        results = validate_poi_side(tile_data)
+        export_validation_results(results, tile_id)
     except Exception as e:
         print(f"Error con tile {tile_id}: {e}\n")
