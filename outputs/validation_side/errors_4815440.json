@@ -1,0 +1,100 @@
+[
+  {
+    "tile_id": 4815440,
+    "poi_id": 1209855826,
+    "link_id": 1123211580,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.13633432464276,
+      19.689543073169993
+    ]
+  },
+  {
+    "tile_id": 4815440,
+    "poi_id": 1222900649,
+    "link_id": 1327600069,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.10698836213948,
+      19.71490858543098
+    ]
+  },
+  {
+    "tile_id": 4815440,
+    "poi_id": 1222714096,
+    "link_id": 702885944,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.11121828598722,
+      19.69205199888552
+    ]
+  },
+  {
+    "tile_id": 4815440,
+    "poi_id": 1244250491,
+    "link_id": 1123009585,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.12821833259001,
+      19.704329201605585
+    ]
+  },
+  {
+    "tile_id": 4815440,
+    "poi_id": 1149055050,
+    "link_id": 702954291,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -98.97695655746392,
+      19.688081878467788
+    ]
+  },
+  {
+    "tile_id": 4815440,
+    "poi_id": 1149050349,
+    "link_id": 977717702,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -98.99535820993401,
+      19.689896381208754
+    ]
+  },
+  {
+    "tile_id": 4815440,
+    "poi_id": 1149050348,
+    "link_id": 977717702,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -98.9954260814326,
+      19.689938800895373
+    ]
+  }
+]
