@@ -1,55 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Errors Report Dashboard</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <header>
-    <h1>Errors Report Dashboard</h1>
-  </header>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VSCuates Geo QA Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header id="TopBar">
+      <h1>Errors Report Dashboard</h1>
+      <img src="VSC.jpg" alt="VSCuates Logo" id="logo1" />
+    </header>
 
-  <section id="filters" class="filters-bar">
-    <div class="filters-left">
-        <h2>Overview of errors in:</h2>
-    </div>
-
-    <div class="filters-right">
-        <label>
-        Tile ID:
+    <section id="filters" class="filters-bar">
+      <div class="filters-left">
+        <h2 id="overviewTitle">Overview of errors in: All</h2>
+      </div>
+      <div class="filters-right">
+        <label for="tileFilter">Tile ID:</label>
         <select id="tileFilter">
-            <option value="">All</option>
-            <!-- opciones dinámicas -->
+          <option value="">All</option>
         </select>
-        </label>
-
         <button id="downloadCsv">Download CSV</button>
-    </div>
+      </div>
     </section>
 
+    <!-- Graph container as a single view -->
+    <main id="dashboard">
+      <div class="graph-grid">
+        <div class="graph-card">
+          <canvas id="chartByType"></canvas>
+        </div>
+        <div class="graph-card">
+          <canvas id="chartBySide"></canvas>
+        </div>
+        <div class="graph-card">
+          <canvas id="chartByLink"></canvas>
+        </div>
+      </div>
+    </main>
 
-  <section id="charts">
-    <div id="chart-errors-type">
-      <canvas id="chartByType" width="400" height="200"></canvas>
-    </div>
+    <footer>
+      <p>Guadalahacks 2025 – VSCuates</p>
+    </footer>
 
-    <div id="chart-errors-direction">
-      <canvas id="chartBySide" width="400" height="200"></canvas>
-    </div>
-
-    <div id="chart-errors-link">
-      <canvas id="chartByLink" width="400" height="200"></canvas>
-    </div>
-  </section>
-
-
-  <footer>
-    <p>Guadalahacks 2025 – VSCuates</p>
-  </footer>
-
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script src="scripts.js"></script>
-</body>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="scripts.js"></script>
+  </body>
 </html>

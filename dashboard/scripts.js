@@ -8,9 +8,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Cargar los tiles desde tiles.json
   fetch("tiles.json")
-    .then(response => response.json())
-    .then(tileIds => {
-      tileIds.forEach(tileId => {
+    .then((response) => response.json())
+    .then((tileIds) => {
+      tileIds.forEach((tileId) => {
         const option = document.createElement("option");
         option.value = tileId;
         option.textContent = tileId;
@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // Cargar todos los errores al inicio
       loadAndDisplayAllErrors();
     })
-    .catch(error => {
+    .catch((error) => {
       console.error("Error loading tiles.json:", error);
     });
 
@@ -55,7 +55,7 @@ async function loadAndDisplayErrors(tileId) {
 async function loadErrorsForTile(tileId) {
   const sources = [
     `/outputs/validation_multidigit/errors_${tileId}.json`,
-    `/outputs/validation_side/errors_${tileId}.json`
+    `/outputs/validation_side/errors_${tileId}.json`,
   ];
 
   let allErrors = [];
@@ -82,8 +82,8 @@ async function loadAndDisplayAllErrors() {
   console.log("🔁 Cargando todos los errores...");
 
   const tileIds = await fetch("tiles.json")
-    .then(res => res.json())
-    .catch(err => {
+    .then((res) => res.json())
+    .catch((err) => {
       console.error("Error loading tiles.json:", err);
       return [];
     });
@@ -118,7 +118,7 @@ function renderChartByType(errors) {
   if (chartTypeInstance) chartTypeInstance.destroy();
 
   const counts = {};
-  errors.forEach(e => {
+  errors.forEach((e) => {
     const type = e.error_type;
     counts[type] = (counts[type] || 0) + 1;
   });
@@ -126,28 +126,46 @@ function renderChartByType(errors) {
   const labels = Object.keys(counts);
   const values = Object.values(counts);
 
-  chartTypeInstance = new Chart(document.getElementById('chartByType'), {
-    type: 'bar',
+  chartTypeInstance = new Chart(document.getElementById("chartByType"), {
+    type: "bar",
     data: {
       labels,
-      datasets: [{
-        label: 'Errors by Type',
-        data: values,
-        backgroundColor: '#0077cc'
-      }]
+      datasets: [
+        {
+          label: "Errors by Type",
+          data: values,
+          backgroundColor: "#0077cc",
+        },
+      ],
     },
     options: {
       plugins: {
         title: {
           display: true,
-          text: 'Errors by Type'
-        }
+          text: "Errors by Type",
+          color: "white",
+        },
+        legend: {
+          labels: {
+            color: "white", // Add this line
+          },
+        },
       },
       responsive: true,
-      scales: {
-        y: { beginAtZero: true }
-      }
+  scales: {
+    y: { 
+      beginAtZero: true,
+      ticks: { color: 'white' }, // Add this line
+      grid: { color: 'rgba(255, 255, 255, 0.1)' },
+      border: { color: 'white' }
+    },
+    x: { // Add this block
+      ticks: { color: 'white' },
+      grid: { color: 'rgba(255, 255, 255, 0.1)' },
+      border: { color: 'white' }
     }
+  },
+    },
   });
 }
 
@@ -156,7 +174,7 @@ function renderChartBySideMismatch(errors) {
   if (chartSideInstance) chartSideInstance.destroy();
 
   const mismatchCounts = {};
-  errors.forEach(e => {
+  errors.forEach((e) => {
     if (!e.expected_side || !e.actual_side) return;
     const combo = `${e.expected_side} → ${e.actual_side}`;
     mismatchCounts[combo] = (mismatchCounts[combo] || 0) + 1;
@@ -165,28 +183,46 @@ function renderChartBySideMismatch(errors) {
   const labels = Object.keys(mismatchCounts);
   const values = Object.values(mismatchCounts);
 
-  chartSideInstance = new Chart(document.getElementById('chartBySide'), {
-    type: 'bar',
+  chartSideInstance = new Chart(document.getElementById("chartBySide"), {
+    type: "bar",
     data: {
       labels,
-      datasets: [{
-        label: 'Side Mismatches',
-        data: values,
-        backgroundColor: '#ff6600'
-      }]
+      datasets: [
+        {
+          label: "Side Mismatches",
+          data: values,
+          backgroundColor: "#ff6600",
+        },
+      ],
     },
     options: {
       plugins: {
         title: {
           display: true,
-          text: 'Expected vs Actual Side'
-        }
+          text: "Expected vs Actual Side",
+          color: "white",
+        },
+        legend: {
+          labels: {
+            color: "white", // Add this line
+          },
+        },
       },
       responsive: true,
-      scales: {
-        y: { beginAtZero: true }
-      }
+  scales: {
+    y: { 
+      beginAtZero: true,
+      ticks: { color: 'white' }, // Add this line
+      grid: { color: 'rgba(255, 255, 255, 0.1)' },
+      border: { color: 'white' }
+    },
+    x: { // Add this block
+      ticks: { color: 'white' },
+      grid: { color: 'rgba(255, 255, 255, 0.1)' },
+      border: { color: 'white' }
     }
+  },
+    },
   });
 }
 
@@ -195,7 +231,7 @@ function renderChartByLink(errors) {
   if (chartLinkInstance) chartLinkInstance.destroy();
 
   const linkCounts = {};
-  errors.forEach(e => {
+  errors.forEach((e) => {
     const link = e.link_id;
     linkCounts[link] = (linkCounts[link] || 0) + 1;
   });
@@ -207,27 +243,45 @@ function renderChartByLink(errors) {
   const labels = sorted.map(([link]) => `Link ${link}`);
   const values = sorted.map(([, count]) => count);
 
-  chartLinkInstance = new Chart(document.getElementById('chartByLink'), {
-    type: 'bar',
+  chartLinkInstance = new Chart(document.getElementById("chartByLink"), {
+    type: "bar",
     data: {
       labels,
-      datasets: [{
-        label: 'Top 10 Link IDs with Most Errors',
-        data: values,
-        backgroundColor: '#33aa55'
-      }]
+      datasets: [
+        {
+          label: "Top 10 Link IDs with Most Errors",
+          data: values,
+          backgroundColor: "#33aa55",
+        },
+      ],
     },
     options: {
       plugins: {
         title: {
           display: true,
-          text: 'Top 10 Links with Errors'
-        }
+          text: "Top 10 Links with Errors",
+          color: "white",
+        },
+        legend: {
+          labels: {
+            color: "white", // Add this line
+          },
+        },
       },
       responsive: true,
-      scales: {
-        y: { beginAtZero: true }
-      }
+  scales: {
+    y: { 
+      beginAtZero: true,
+      ticks: { color: 'white' }, // Add this line
+      grid: { color: 'rgba(255, 255, 255, 0.1)' },
+      border: { color: 'white' }
+    },
+    x: { // Add this block
+      ticks: { color: 'white' },
+      grid: { color: 'rgba(255, 255, 255, 0.1)' },
+      border: { color: 'white' }
     }
+  },
+    },
   });
 }
