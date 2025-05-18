@@ -16,7 +16,7 @@ tiles_path = os.path.join(DATA_DIR, "HERE_L11_Tiles.geojson")
 tiles_gdf = gpd.read_file(tiles_path)
 tile_ids = sorted(tiles_gdf["L11_Tile_ID"].unique())
 
-EXIST_OUT = os.path.join(DATA_DIR, "outputs", "existence")
+EXIST_OUT = os.path.join(ROOT_DIR, "outputs", "existence")
 os.makedirs(EXIST_OUT, exist_ok=True)
 
 # Filtrar los tiles que tienen POI disponible
@@ -47,6 +47,7 @@ for tile_id in tile_ids_with_data:
         
         # Módulo 4 (EXISTENCE)
         exist_gdf = validate_existence(tile_data)
+        os.makedirs(EXIST_OUT, exist_ok=True)
         out_path = os.path.join(EXIST_OUT, f"existence_{tile_id}.geojson")
         exist_gdf.to_file(out_path, driver="GeoJSON")
         print(f"  • Existence report written to: {out_path}")
