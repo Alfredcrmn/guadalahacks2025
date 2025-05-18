@@ -11,6 +11,15 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
       rel="stylesheet"
     />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+
+
   </head>
   <body>
     <header id="TopBar">
@@ -27,9 +36,17 @@
         <select id="tileFilter">
           <option value="">All</option>
         </select>
-        <button id="downloadCsv">Download CSV</button>
+        <button id="downloadCsv">Download JSON</button>
       </div>
     </section>
+
+    <div class="kpi-cards">
+      <div class="kpi-card"><h3 id="kpi-total">0</h3><p>Total Errors</p></div>
+      <div class="kpi-card"><h3 id="kpi-tiles">0</h3><p>Tiles with errors</p></div>
+      <div class="kpi-card"><h3 id="kpi-links">0</h3><p>Links with errors</p></div>
+      <div class="kpi-card"><h3 id="kpi-types">0</h3><p>Error Types</p></div>
+    </div>
+
 
     <!-- Graph container as a single view -->
     <main id="dashboard">
@@ -43,6 +60,21 @@
         <div class="graph-card">
           <canvas id="chartByLink"></canvas>
         </div>
+        <!-- Errores por tile (top N) -->
+        <div class="graph-card">
+          <canvas id="chartByTile"></canvas>
+        </div>
+
+        <!-- Distribución proporcional -->
+        <div class="graph-card">
+          <canvas id="chartErrorDistribution"></canvas>
+        </div>
+
+        <div class="graph-card map-card">
+          <div id="chartMap"></div>
+        </div>
+
+
       </div>
     </main>
 

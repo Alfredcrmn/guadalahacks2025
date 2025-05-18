@@ -107,9 +107,9 @@ body {
 
 /* Dashboard layout */
 #dashboard {
-  padding: 6rem 2rem;
   max-width: 1400px;
   margin: auto;
+  margin-bottom: 100px;
 }
 
 .graph-grid {
@@ -139,6 +139,13 @@ body {
   max-height: 100%;
 }
 
+.map-card #chartMap {
+  width: 100%;
+  height: 280px;
+  border-radius: 8px;
+}
+
+
 /* Footer */
 footer {
   text-align: center;
@@ -147,4 +154,44 @@ footer {
   color: #2e2e2e;
   background: #cdcdcd;
   border-top: 1px solid #e0e0e0;
+}
+
+.kpi-cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 2rem auto;
+  padding: 0 2rem;
+  width: 83%;
+}
+
+.kpi-card {
+  flex: 1 1 calc(25% - 1rem);
+  background-color: #12303f;
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  transition: transform 0.2s ease-in-out;
+}
+
+.kpi-card:hover {
+  transform: scale(1.03);
+}
+
+.kpi-card h3 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 0;
+  color: #31e0c3;
+}
+
+.kpi-card p {
+  font-size: 0.95rem;
+  margin-top: 0.5rem;
+  color: #c0cbd4;
+  font-weight: 400;
+  letter-spacing: 0.5px;
 }

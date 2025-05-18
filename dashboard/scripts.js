@@ -1,6 +1,9 @@
 let chartTypeInstance;
 let chartSideInstance;
 let chartLinkInstance;
+let chartTileInstance;
+let chartDistributionInstance;
+
 
 document.addEventListener("DOMContentLoaded", () => {
   const tileFilter = document.getElementById("tileFilter");
@@ -106,12 +109,51 @@ async function loadAndDisplayAllErrors() {
   renderCharts(allErrors);
 }
 
+async function loadAndDisplayErrors(tileId) {
+  const errors = await loadErrorsForTile(tileId);
+  console.log(`🔍 ${errors.length} errores cargados para tile ${tileId}`);
+  updateKPI(errors);  // ✅ Agrega esto
+  renderCharts(errors);
+}
+
+async function loadAndDisplayAllErrors() {
+  console.log("🔁 Cargando todos los errores...");
+
+  const tileIds = await fetch("tiles.json")
+    .then((res) => res.json())
+    .catch((err) => {
+      console.error("Error loading tiles.json:", err);
+      return [];
+    });
+
+  let allErrors = [];
+
+  for (const tileId of tileIds) {
+    const errors = await loadErrorsForTile(tileId);
+    allErrors = allErrors.concat(errors);
+  }
+
+  console.log(`📊 Total de errores combinados: ${allErrors.length}`);
+
+  if (allErrors.length === 0) {
+    alert("No se encontraron errores en ninguno de los tiles.");
+  }
+
+  updateKPI(allErrors);  // ✅ Agrega esto
+  renderCharts(allErrors);
+}
+
+
 // Renderizar todas las gráficas
 function renderCharts(errors) {
   renderChartByType(errors);
   renderChartBySideMismatch(errors);
   renderChartByLink(errors);
+  renderChartByTile(errors);
+  renderChartErrorDistribution(errors);
+  renderErrorMap(errors);
 }
+
 
 // Errores por tipo
 function renderChartByType(errors) {
@@ -284,4 +326,206 @@ function renderChartByLink(errors) {
   },
     },
   });
+}
+
+document.getElementById("downloadCsv").addEventListener("click", async () => {
+  const selected = document.getElementById("tileFilter").value;
+  const tileIds = await fetch("tiles.json").then(res => res.json());
+
+  const tilesToDownload = selected ? [selected] : tileIds;
+
+  const zip = new JSZip();
+
+  for (const tileId of tilesToDownload) {
+    const folder = zip.folder(`tile_${tileId}`);
+
+    const files = [
+      {
+        name: `errors_multidigit_${tileId}.json`,
+        path: `/outputs/validation_multidigit/errors_${tileId}.json`
+      },
+      {
+        name: `errors_side_${tileId}.json`,
+        path: `/outputs/validation_side/errors_${tileId}.json`
+      },
+      {
+        name: `existence_${tileId}.geojson`,
+        path: `/outputs/existence/existence_${tileId}.geojson`
+      }
+    ];
+
+    for (const file of files) {
+      try {
+        const res = await fetch(file.path);
+        if (!res.ok) {
+          console.warn(`No se pudo cargar: ${file.path}`);
+          continue;
+        }
+        const content = await res.text();
+        folder.file(file.name, content);
+      } catch (err) {
+        console.error(`Error leyendo ${file.path}:`, err);
+      }
+    }
+  }
+
+  const zipBlob = await zip.generateAsync({ type: "blob" });
+  const zipFileName = selected ? `tile_${selected}_errors.zip` : `all_tiles_errors.zip`;
+
+  const link = document.createElement("a");
+  link.href = URL.createObjectURL(zipBlob);
+  link.download = zipFileName;
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+});
+
+function renderChartByTile(errors) {
+  if (chartTileInstance) chartTileInstance.destroy();
+
+  const tileCounts = {};
+
+  errors.forEach(e => {
+    const tileId = e.tile_id || "Unknown";
+    tileCounts[tileId] = (tileCounts[tileId] || 0) + 1;
+  });
+
+  const sorted = Object.entries(tileCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 10);
+
+  const labels = sorted.map(([tile]) => `Tile ${tile}`);
+  const values = sorted.map(([, count]) => count);
+
+  chartTileInstance = new Chart(document.getElementById("chartByTile"), {
+    type: "bar",
+    data: {
+      labels,
+      datasets: [{
+        label: "Top Tiles by Error Count",
+        data: values,
+        backgroundColor: "#ff4477"
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      plugins: {
+        title: {
+          display: true,
+          text: "Top 10 Tiles with Most Errors",
+          color: "white"
+        },
+        legend: { display: false }
+      },
+      responsive: true,
+      scales: {
+        x: {
+          beginAtZero: true,
+          ticks: { color: 'white' },
+          grid: { color: 'rgba(255,255,255,0.1)' },
+          border: { color: 'white' }
+        },
+        y: {
+          ticks: { color: 'white' },
+          grid: { color: 'rgba(255,255,255,0.1)' },
+          border: { color: 'white' }
+        }
+      }
+    }
+  });
+}
+
+
+function renderChartErrorDistribution(errors) {
+  if (chartDistributionInstance) chartDistributionInstance.destroy();
+
+  const counts = {};
+  errors.forEach(e => {
+    const type = e.error_type || "Unknown";
+    counts[type] = (counts[type] || 0) + 1;
+  });
+
+  const labels = Object.keys(counts);
+  const values = Object.values(counts);
+
+  const backgroundColors = labels.map((_, i) =>
+    `hsl(${(i * 360) / labels.length}, 70%, 50%)`
+  );
+
+  chartDistributionInstance = new Chart(document.getElementById("chartErrorDistribution"), {
+    type: "doughnut",
+    data: {
+      labels,
+      datasets: [{
+        data: values,
+        backgroundColor: backgroundColors
+      }]
+    },
+    options: {
+      plugins: {
+        title: {
+          display: true,
+          text: "Error Type Distribution (%)",
+          color: "white"
+        },
+        legend: {
+          labels: { color: "white" }
+        }
+      },
+      responsive: true
+    }
+  });
+}
+
+function renderErrorMap(errors) {
+  const mapContainer = document.getElementById("chartMap");
+
+  // Reset Leaflet map
+  if (mapContainer._leaflet_id) {
+    mapContainer._leaflet_id = null;
+    mapContainer.innerHTML = "";
+  }
+
+  const map = L.map("chartMap").setView([19.43, -99.13], 12); // CDMX por defecto
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 18,
+  }).addTo(map);
+
+  const bounds = [];
+
+  errors.forEach((error) => {
+    let lat, lon;
+
+    if (error.lat && error.lon) {
+      lat = error.lat;
+      lon = error.lon;
+    } else if (error.geometry && Array.isArray(error.geometry)) {
+      [lon, lat] = error.geometry; // OJO: GeoJSON usa [lon, lat]
+    }
+
+    if (!lat || !lon) return;
+
+    const marker = L.circleMarker([lat, lon], {
+      radius: 5,
+      fillColor: "#f00",
+      fillOpacity: 0.7,
+      color: "#fff",
+      weight: 1,
+    }).addTo(map);
+
+    marker.bindPopup(`<b>${error.error_type}</b>`);
+    bounds.push([lat, lon]);
+  });
+
+  if (bounds.length > 0) {
+    map.fitBounds(bounds, { padding: [20, 20] });
+  }
+}
+
+function updateKPI(errors) {
+  document.getElementById("kpi-total").textContent = errors.length;
+  document.getElementById("kpi-tiles").textContent = new Set(errors.map(e => e.tile_id)).size;
+  document.getElementById("kpi-links").textContent = new Set(errors.map(e => e.link_id)).size;
+  document.getElementById("kpi-types").textContent = new Set(errors.map(e => e.error_type)).size;
 }
