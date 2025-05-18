@@ -8,6 +8,21 @@ SIDE_LEFT = "L"
 SIDE_RIGHT = "R"
 
 def validate_existence(loader_data: dict) -> gpd.GeoDataFrame:
+    """
+    Validates the existence and legitimacy of POIs located inside Multiply Digitised (MULTIDIGIT) links.
+
+    This function implements the logic for case 4/4 from the Guadalajara Hackathon 2025 challenge:
+    "Legitimate Exception: correct location and confirmed existence". It identifies POIs that are
+    correctly placed inside road segments flagged as MULTIDIGIT, according to HERE NavStreets rules.
+
+    The process involves:
+    - Checking if the POI has valid geometry and link association.
+    - Verifying if the associated link is marked as MULTIDIGIT.
+    - Interpolating the expected position of the POI along the link using its PERCFRREF.
+    - Confirming the POI lies within the tile and the MULTIDIGIT geometry.
+
+    Returns a GeoDataFrame with error classification and diagnostic suggestion per POI.
+    """
     pois = loader_data["pois"].copy()
     streets = loader_data["streets_nav"]
     tile_geom = loader_data["tile_geom"]
