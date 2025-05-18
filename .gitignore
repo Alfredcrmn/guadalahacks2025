@@ -1,6 +1,7 @@
 data/
 venv/
-.env
+.venv/
+.env/
 .DS_Store
 .DS_Store
 .DS_Store
