@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GeoJSON QA Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>GeoJSON QA Dashboard</h1>
+  </header>
+
+  <section id="filters">
+    <label>
+      Tile ID:
+      <select id="tileFilter">
+        <option value="">All</option>
+        <!-- opciones dinámicas -->
+      </select>
+    </label>
+  </section>
+
+  <section id="charts">
+    <canvas id="errorChart" width="400" height="200"></canvas>
+  </section>
+
+  <footer>
+    <p>Hackathon Guadalajara 2025 – VSCuates</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="scripts.js"></script>
+</body>
+</html>
