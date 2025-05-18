@@ -1,0 +1,1066 @@
+[
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244655624,
+    "link_id": 703488997,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.13916473873394,
+      19.276591735139455
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244316285,
+    "link_id": 703547375,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.13955043861384,
+      19.292929612623706
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244248437,
+    "link_id": 1347048701,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.13141957114841,
+      19.29029223180878
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1138874739,
+    "link_id": 1052382424,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.13197940337989,
+      19.292308949301603
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1185634941,
+    "link_id": 703373279,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.13448719568923,
+      19.289188345528398
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244287768,
+    "link_id": 703518263,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.14018826542427,
+      19.29513091966696
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1227689278,
+    "link_id": 703371576,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.11485304811325,
+      19.295065791328785
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1178756987,
+    "link_id": 703595320,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.1156292294187,
+      19.31227258616111
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244286381,
+    "link_id": 1239649249,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.11655727197383,
+      19.313911832497226
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244749430,
+    "link_id": 1347021204,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on N side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "N",
+    "actual_side": "R",
+    "geometry": [
+      -99.12455800000001,
+      19.318122000000002
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1203083031,
+    "link_id": 1295045821,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.13207055583423,
+      19.305916104144075
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 800036838,
+    "link_id": 1347032031,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.13820636409957,
+      19.316726433726775
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1161487083,
+    "link_id": 1385233614,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.1362170050395,
+      19.309795847835222
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1059504594,
+    "link_id": 703589748,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.13786308566567,
+      19.32191937065074
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1161080717,
+    "link_id": 703557045,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.13660636764678,
+      19.326310093582105
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1159535375,
+    "link_id": 703360258,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.13979650964531,
+      19.32798349035469
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1209394929,
+    "link_id": 833209858,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on N side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "N",
+    "actual_side": "R",
+    "geometry": [
+      -99.03435999999999,
+      19.29082
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1177995530,
+    "link_id": 993291840,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.04993626871466,
+      19.28378374606295
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244317371,
+    "link_id": 1327268787,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.0561140831228,
+      19.283171238790636
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244294875,
+    "link_id": 703391503,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.06494208571529,
+      19.292147510286537
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1209395984,
+    "link_id": 833266955,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on N side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "N",
+    "actual_side": "R",
+    "geometry": [
+      -99.0409607,
+      19.3015932
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244655641,
+    "link_id": 703370675,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on N side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "N",
+    "actual_side": "R",
+    "geometry": [
+      -99.0252779,
+      19.3232312
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1059610982,
+    "link_id": 1232589405,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on N side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "N",
+    "actual_side": "L",
+    "geometry": [
+      -99.01458149255915,
+      19.330083628014336
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1059624807,
+    "link_id": 703428706,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -98.9955761750914,
+      19.33456934549351
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1210114556,
+    "link_id": 703428706,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -98.9957050364453,
+      19.334719840461503
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1210112051,
+    "link_id": 833145185,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.030227509629,
+      19.332872506877855
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1205845820,
+    "link_id": 703611807,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.06429292555428,
+      19.316138000487964
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1140554897,
+    "link_id": 703611807,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.06441477206204,
+      19.316162000557675
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1059419062,
+    "link_id": 703662810,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.04656507277632,
+      19.322146010631943
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244283408,
+    "link_id": 703662810,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.04672867776283,
+      19.322232357708156
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1210113027,
+    "link_id": 703470682,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.03743781112755,
+      19.318575545865134
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244302434,
+    "link_id": 706836209,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -98.96723721485299,
+      19.30983671127298
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244249282,
+    "link_id": 703441515,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.03573248711864,
+      19.32670456419108
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1059487809,
+    "link_id": 703465385,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on N side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "N",
+    "actual_side": "R",
+    "geometry": [
+      -98.9692318,
+      19.3289052
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1202840302,
+    "link_id": 703459956,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.120757293666,
+      19.27842494527162
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1202734593,
+    "link_id": 703568745,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.12271391364753,
+      19.280110319694874
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204767767,
+    "link_id": 836923671,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.0816366596566,
+      19.300373050064337
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204758461,
+    "link_id": 703607603,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.0742001716675,
+      19.30258541968584
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204758460,
+    "link_id": 703607603,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.07331912992443,
+      19.30253486811042
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204355189,
+    "link_id": 703551775,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.09964064603187,
+      19.322174118437022
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204355188,
+    "link_id": 703551775,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.0993707934117,
+      19.322440730541285
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204347968,
+    "link_id": 1374300035,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.09618902787008,
+      19.317360020927328
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204347969,
+    "link_id": 1374300035,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.09617968262407,
+      19.317404590562127
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1040377748,
+    "link_id": 703396416,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.11055866752079,
+      19.31350756352735
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1161840742,
+    "link_id": 703396416,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.11066652513233,
+      19.314016100529326
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1161840685,
+    "link_id": 703396416,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.11083480863005,
+      19.314431503358172
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1161514755,
+    "link_id": 703581892,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.10457165357131,
+      19.314829165357132
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204478921,
+    "link_id": 703379953,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.0992265830644,
+      19.323286340835747
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204478922,
+    "link_id": 703379953,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.09926662229364,
+      19.323301058491204
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204478923,
+    "link_id": 703379953,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.09930608762274,
+      19.323317451781755
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244309498,
+    "link_id": 703379953,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.09930608762274,
+      19.323317451781755
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204478924,
+    "link_id": 703379953,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.09942448361004,
+      19.3233666316534
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204478925,
+    "link_id": 703379953,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.09975993890738,
+      19.323505974623068
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204478926,
+    "link_id": 703379953,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.09995613384642,
+      19.32359052331373
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204816167,
+    "link_id": 703652050,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.07572581336332,
+      19.309924817149284
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1244312267,
+    "link_id": 1346971533,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.077478233052,
+      19.315076407720007
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1206877683,
+    "link_id": 703376973,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.07228901416073,
+      19.31835984136826
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1257986166,
+    "link_id": 1328190406,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on N side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "N",
+    "actual_side": "R",
+    "geometry": [
+      -99.0748138,
+      19.3202708
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1206642513,
+    "link_id": 703514656,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.08897498602188,
+      19.330698920345405
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204446092,
+    "link_id": 980189309,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.09945320791668,
+      19.325775231919202
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204446090,
+    "link_id": 980189309,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.09961087315634,
+      19.325891927517905
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204446089,
+    "link_id": 980189309,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.10007035274704,
+      19.32613667510741
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204446088,
+    "link_id": 980189309,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.10011979983499,
+      19.326158173841296
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1201532258,
+    "link_id": 980189309,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.10016924692293,
+      19.326179672575186
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204496839,
+    "link_id": 703557770,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.10369169956061,
+      19.3255757631636
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1204575234,
+    "link_id": 703557770,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.10368776916042,
+      19.325604062045002
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1161456084,
+    "link_id": 703547961,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.10887178353973,
+      19.323940338219167
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1161456046,
+    "link_id": 703547961,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.1088423121972,
+      19.323986387191873
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1210098755,
+    "link_id": 981249272,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on R side, but is located on L",
+    "suggestion": "Update POI_ST_SD to 'L'",
+    "expected_side": "R",
+    "actual_side": "L",
+    "geometry": [
+      -99.10885908775587,
+      19.33397729795305
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1206718179,
+    "link_id": 1116673130,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.08656491908619,
+      19.33538762137072
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1154284147,
+    "link_id": 703420750,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.11368891810197,
+      19.331490849343044
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1153390982,
+    "link_id": 703459623,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.11672108196814,
+      19.332568918031868
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1153390983,
+    "link_id": 703459623,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.1166762165341,
+      19.332613783465895
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1154281755,
+    "link_id": 1351726452,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.11437876330979,
+      19.334394883242844
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1153552445,
+    "link_id": 1347014464,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.11479638917939,
+      19.334434266806102
+    ]
+  },
+  {
+    "tile_id": 4815090,
+    "poi_id": 1154279488,
+    "link_id": 1347014464,
+    "error_type": "wrong_side_of_street",
+    "description": "POI expected on L side, but is located on R",
+    "suggestion": "Update POI_ST_SD to 'R'",
+    "expected_side": "L",
+    "actual_side": "R",
+    "geometry": [
+      -99.11538054845713,
+      19.33452986288572
+    ]
+  }
+]

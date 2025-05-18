@@ -6,6 +6,7 @@ import geopandas as gpd
 from loader import load_tile
 from validate_existence import validate_existence
 
+
 # ── CONFIG ────────────────────────────────────────────────────────────────
 ROOT_DIR = os.path.abspath(os.path.dirname(__file__))    # src/
 PROJECT_ROOT = os.path.dirname(ROOT_DIR)                 # project root
@@ -41,7 +42,7 @@ def run_tile_reports(tile_id: int):
         total = len(tile_data["pois"])
         inside = tile_data["pois"]["inside_tile"].sum()
         outside = total - inside
-
+        
         print(f"  • POIs total : {total}")
         print(f"  • Inside tile: {inside}")
         print(f"  • Outside    : {outside}")

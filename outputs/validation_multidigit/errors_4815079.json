@@ -1,0 +1,2390 @@
+[
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1101889694,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1289693172 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.21084500000002,
+      19.330165
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 955045605,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1289693172 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.21116182300769,
+      19.330404613197874
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 955045604,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1289693174 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.21108533974366,
+      19.33127952912622
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 732269616,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703660134 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17416,
+      19.324835
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703371988,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703660134 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17359392250579,
+      19.325168969605535
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1091622500,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 849118745 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17381765564589,
+      19.333133040627274
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703485692,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 849118745 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17366845889623,
+      19.333984205289312
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1091622501,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 849118745 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.173405,
+      19.334315
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1303982167,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1245232065 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23989963244307,
+      19.335682744089638
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1306457490,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1245232065 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23980003677873,
+      19.335741753920203
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703463143,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703642896 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23004499999999,
+      19.289234999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703550547,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703642896 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22974500000001,
+      19.289275
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295358987,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295358976 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23013499999999,
+      19.290055
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1347422248,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295358976 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.229825,
+      19.290275
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1347422246,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295358976 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23017,
+      19.290374999999997
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1294394118,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703524499 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16581,
+      19.309260000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1294150501,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703524499 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16624,
+      19.309505
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1294150502,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703524499 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16687500000002,
+      19.30988
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1294233436,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1294150496 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17878851753265,
+      19.308398676399673
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1091497357,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1294150496 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.176975,
+      19.308970000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1351774175,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1294150496 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17697000000001,
+      19.309145
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1091497355,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1294150496 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17793499999999,
+      19.308574999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1351774174,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1294150496 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17746500000001,
+      19.308934999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1294749046,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 930587980 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15431499999998,
+      19.30102
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1346386560,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 930587980 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15476920823275,
+      19.301197320650388
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1116451767,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 930587980 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.153535,
+      19.301275
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1116451768,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 930587980 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.154225,
+      19.30134
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1346386563,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 930587980 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15527,
+      19.30134
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 930587983,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 930587980 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15486632017732,
+      19.30140132563892
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703469304,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1352479319 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.159065,
+      19.303295
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703482521,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703640349 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17791,
+      19.292634999999997
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1112801171,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703640349 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.178315,
+      19.29281
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703589215,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703640349 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17803,
+      19.292875000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 750177847,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703640349 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17888500000001,
+      19.29305
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 750175170,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703640349 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.178895,
+      19.29325
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 750177848,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1365862340 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17939,
+      19.29326
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295045432,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1365862340 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17940999999999,
+      19.293464999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 750191550,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191552 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18544,
+      19.29949
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1328773973,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191552 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18569,
+      19.29952
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 750170066,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191552 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18549999999999,
+      19.300015000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1052250145,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191552 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.185745,
+      19.300075
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 830599294,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191552 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18554499999999,
+      19.300359999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1052250146,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191552 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.185775,
+      19.300385
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295045514,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191552 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.185805,
+      19.30066
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295046270,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191552 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.185585,
+      19.30072
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703596892,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191552 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18572454692773,
+      19.301899308864297
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703625042,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191552 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18603999999999,
+      19.30237
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703370836,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191552 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.185795,
+      19.302590000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 786749171,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191555 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18615,
+      19.305104999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 750191559,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191555 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.186385,
+      19.305115
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 786748989,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191555 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18643499999999,
+      19.305535
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 786749604,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191552 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18583061370899,
+      19.302889907885838
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703547977,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750154683 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18591,
+      19.303314999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703497019,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750154683 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18617499999999,
+      19.303395000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 736230113,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191555 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.1865,
+      19.306265
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 736230114,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 750191558 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.186655,
+      19.307645000000004
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703652157,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703451296 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18832163810413,
+      19.320804798261058
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703593230,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703451296 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18817,
+      19.32103
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1293293883,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 931540207 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18977,
+      19.333545
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 786752364,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703482102 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.187485,
+      19.3139
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1119272701,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703482102 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18741094933033,
+      19.31466989419629
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 786752365,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703482102 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18769,
+      19.315575000000003
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 786752367,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703482102 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.187535,
+      19.31575
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 799687985,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 931540207 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.19002499999998,
+      19.33417
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 799687983,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 931540207 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.189835,
+      19.334315
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 799687986,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 931540207 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.190065,
+      19.335115000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 799687984,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 931540207 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.18988,
+      19.335125
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 862889856,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346758395 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23451501960777,
+      19.31599
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1062221483,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346758395 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.233975,
+      19.316055
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1062221484,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346758395 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23335,
+      19.316164999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1117413694,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346758395 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23491372761178,
+      19.316060228199518
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1330675392,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 862753592 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.236615,
+      19.31718
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1232903433,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295046214 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23520500000001,
+      19.316535000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1346463046,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 862753592 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23568499999999,
+      19.316555
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295371327,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 862753592 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.2356,
+      19.31678
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1346463048,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 862753592 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23605,
+      19.3168
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1346463049,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 862753592 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.236345,
+      19.317
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295371328,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 862753592 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.235985,
+      19.31702
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1112201967,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 862753592 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.236305,
+      19.317235
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1330675393,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 862753592 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23686000000001,
+      19.31735
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1306195136,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 862753592 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23669000000001,
+      19.317529999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 999176524,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295484271 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22849599517816,
+      19.319735039332375
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1062221862,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346758395 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23410498962131,
+      19.31625254358161
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 862889859,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346758395 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23455,
+      19.31627
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1062221863,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346758395 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23365504672796,
+      19.316280338382352
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1062221857,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346758395 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.23327950272788,
+      19.316331815003736
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 999176532,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295484271 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22832176719643,
+      19.32003117248569
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703394768,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1306195072 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22464961834842,
+      19.32268427701694
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703540513,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1306195072 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22441,
+      19.322820000000004
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 956409201,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1306195073 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22318767930747,
+      19.32298000370204
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703638169,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1306195072 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22406522695948,
+      19.323011311757288
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703628771,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1306195072 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22360766021124,
+      19.32309581616654
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295045422,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703424214 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16657000000001,
+      19.291945
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295045426,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703424214 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.167145,
+      19.292144999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295045801,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1330243323 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16752500000001,
+      19.292275
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295045905,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1330243324 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.1678,
+      19.292375
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1232943798,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703496562 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22056,
+      19.30443
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1321545835,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703496562 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.220505,
+      19.304675
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1330185252,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703496562 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22043500000001,
+      19.30496
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1330185253,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703496562 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22034500000001,
+      19.305320000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1330185250,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703496562 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22026,
+      19.305680000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1330185251,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703496562 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.2202,
+      19.305970000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 972237837,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703662871 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.19318,
+      19.304155
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 972237838,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1293294009 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.19324499999999,
+      19.304655
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703506960,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1293294009 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.19327000000001,
+      19.30488
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1293293992,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703502048 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.193315,
+      19.305275
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1294148467,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703581605 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.17025999999998,
+      19.308104999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1294148468,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703581605 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.170115,
+      19.308325
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703449820,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703581605 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16995,
+      19.308575
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703517031,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703581605 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.169655,
+      19.309025
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703602995,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295355452 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16285399063631,
+      19.288668028091084
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1112799376,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295355452 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16256,
+      19.289559999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 786740041,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295355452 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.162215,
+      19.290155
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 786740045,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295355452 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16241,
+      19.289895
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703386810,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346430413 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.151335,
+      19.298075
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1329672731,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346430413 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.151555,
+      19.298245
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 734428983,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346430413 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.150955,
+      19.298315000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703616981,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703487354 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.150305,
+      19.29872
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703604372,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703487354 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.150405,
+      19.299149999999997
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1091858594,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346430413 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.1514,
+      19.29838
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1376767723,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1346430409 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15102999999999,
+      19.29867
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1376767724,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703487354 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15084999999999,
+      19.29881
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703598404,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703626477 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.21869000000002,
+      19.311115
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703540033,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703387559 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.2235836118253,
+      19.31061040288737
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703394402,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703387559 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22371048245301,
+      19.310753637914054
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1343236430,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703387559 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.2244,
+      19.3108
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703390509,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703387559 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.223675,
+      19.310875000000003
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1116339215,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703387559 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22382988694788,
+      19.310909248161867
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1116339216,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703387559 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22346999999999,
+      19.31096
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295045649,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703387559 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.2248,
+      19.310699999999997
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295045501,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295045492 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.21562,
+      19.294195000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295045502,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295045492 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.215515,
+      19.29435
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295045621,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295045492 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.21535,
+      19.29458
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295045622,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295045492 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.21509499999999,
+      19.294925
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1311837266,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295045492 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.21592000000001,
+      19.29376
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1311837267,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1295045492 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.21574927463674,
+      19.294004480209708
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1346988386,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1294150666 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.14992102665308,
+      19.3345413967608
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 721072311,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1291261921 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.20963499999999,
+      19.331380000000003
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703650524,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1291261921 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.2094,
+      19.33145
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1035499878,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1291261921 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.20968299633608,
+      19.331475205150372
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 721279711,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1291261921 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.21060590248348,
+      19.33165883693906
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 721686699,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1291261921 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.20854847402764,
+      19.33175068380494
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1298314094,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703669025 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.31313840215269,
+      19.334587569183515
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1021935197,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703669025 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.31214,
+      19.334870000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1091616526,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703669025 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.31202356737035,
+      19.335059213563838
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656105,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16373,
+      19.270375
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656106,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16373,
+      19.27074
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656107,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16375500000001,
+      19.27105
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181655963,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.163715,
+      19.271225
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656108,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.163805,
+      19.271304999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656109,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16387499999999,
+      19.27156
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181655964,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.1638,
+      19.27156
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656110,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.163995,
+      19.271855000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181655965,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16396499999999,
+      19.27196
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181655966,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16417000000001,
+      19.272395
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656111,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.164305,
+      19.272489999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181655961,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16364999999999,
+      19.270355000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181655962,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656247 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.163655,
+      19.270760000000003
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181655967,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656248 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.164375,
+      19.272795000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656112,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656250 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16468499999999,
+      19.273235
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1203977073,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656245 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16462,
+      19.273265
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1203977067,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703406863 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.164815,
+      19.27364
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1203970913,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703406863 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16489999999999,
+      19.273645000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656145,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703488680 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.165255,
+      19.274285
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656238,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703417591 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16547499999999,
+      19.274675000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1203970914,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656244 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16503,
+      19.27389
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656205,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703417591 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.165395,
+      19.274799999999995
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656239,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1051453876 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.165625,
+      19.274965
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1181656195,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1203970915 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16581539533364,
+      19.27558655121729
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1378472037,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1051453876 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16568519717886,
+      19.275912540726118
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703638621,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703438492 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.222695,
+      19.309350000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703624323,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703438492 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.22325,
+      19.30995
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703524860,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703585114 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.223825,
+      19.310605000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1170659452,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 733268843 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16756657072543,
+      19.27464140975506
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1170659453,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 733268843 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16679542081003,
+      19.2750086849454
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703355705,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 733268843 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16506666034539,
+      19.27725600321797
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703628019,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656268 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16468,
+      19.277880000000003
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703420986,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1181656269 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16439,
+      19.278345
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1347146361,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1304097361 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16187991503739,
+      19.283089821608442
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703424046,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 1304097361 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16094256245,
+      19.283594443302814
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703432036,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.1598223975948,
+      19.284563609826954
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703537256,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.157455,
+      19.286050000000003
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 736215014,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15704,
+      19.286315000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703619627,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15781999999999,
+      19.285815
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1295045475,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15810423278921,
+      19.286108745191843
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703388465,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15741,
+      19.286545
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1120361451,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15650500000002,
+      19.286655
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703665138,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15703500000001,
+      19.28679
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 918282261,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15674,
+      19.28698
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1120361452,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.155885,
+      19.287055000000002
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1289692063,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.155355,
+      19.287395
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 918282262,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15553473155457,
+      19.287749580777863
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 750127140,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.16031316728717,
+      19.28467427178595
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 750127141,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.159335,
+      19.285335
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1050745885,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15909786951485,
+      19.28500628586616
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1050745886,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15844499999999,
+      19.28541
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1347037071,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15905000000001,
+      19.285519999999998
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 703582268,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.15812,
+      19.28562
+    ]
+  },
+  {
+    "tile_id": 4815079,
+    "poi_id": null,
+    "link_id": 1347037072,
+    "error_type": "potential_multidigit_false_negative",
+    "description": "Parallel segment 703612160 seems to need MULTIDIGIT=Y (score=4.0)",
+    "suggestion": "Consider setting MULTIDIGIT to 'Y'",
+    "geometry": [
+      -99.158725,
+      19.285725
+    ]
+  }
+]
